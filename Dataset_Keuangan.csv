@@ -1,0 +1,1106 @@
+No,Tanggal,Sopir,Plat Nomor,Order,Volume (L),Pemasukan,Pengeluaran,Jenis Transaksi,Jumlah,Keterangan
+1,2024-06-01,Pak Joko,H 1111 AA,Depot Air Sehat,6000,366245,0,Pemasukan,366245,Pembayaran lunas
+2,2024-06-01,Pak Dedi,H 2222 BB,Depot Air Sehat,8000,360609,0,Pemasukan,360609,Pembayaran lunas
+3,2024-06-01,Pak Rudi,H 2222 BB,Warung Lesehan Berkah,10000,367988,0,Pemasukan,367988,Pembayaran lunas
+4,2024-06-01,Pak Slamet,H 1234 CD,Ganti Oli,-,0,111296,Pengeluaran,-111296,Biaya ganti oli
+5,2024-06-02,Pak Slamet,H 2222 BB,Warung Lesehan Berkah,10000,313188,0,Pemasukan,313188,Pembayaran lunas
+6,2024-06-02,Pak Rudi,H 3333 CC,Isi Solar,-,0,205856,Pengeluaran,-205856,Biaya isi solar
+7,2024-06-02,Pak Rudi,H 2222 BB,Warung Makan Sari Rasa,6000,392461,0,Pemasukan,392461,Pembayaran lunas
+8,2024-06-03,Pak Budi,H 2222 BB,Ganti Oli,-,0,164795,Pengeluaran,-164795,Biaya ganti oli
+9,2024-06-03,Pak Budi,H 1111 AA,Warung Makan Sari Rasa,8000,357965,0,Pemasukan,357965,Pembayaran lunas
+10,2024-06-03,Pak Hendra,H 2222 BB,Toko Sumber Rejeki,6000,309674,0,Pemasukan,309674,Pembayaran lunas
+11,2024-06-03,Pak Eko,H 4444 DD,Warung Makan Sari Rasa,6000,371550,0,Pemasukan,371550,Pembayaran lunas
+12,2024-06-04,Pak Slamet,H 3333 CC,Depot Tirta Jaya,8000,316485,0,Pemasukan,316485,Pembayaran lunas
+13,2024-06-04,Pak Slamet,H 1234 CD,Warung Makan Sari Rasa,6000,330979,0,Pemasukan,330979,Pembayaran lunas
+14,2024-06-04,Pak Dedi,H 2222 BB,Depot Air Segar,6000,299355,0,Pemasukan,299355,Pembayaran lunas
+15,2024-06-04,Pak Rudi,H 1111 AA,Warung Makan Sari Rasa,8000,296663,0,Pemasukan,296663,Pembayaran lunas
+16,2024-06-05,Pak Andi,H 3333 CC,Depot Air Segar,10000,377378,0,Pemasukan,377378,Pembayaran lunas
+17,2024-06-05,Pak Dedi,H 4444 DD,Cuci Truk,-,0,146431,Pengeluaran,-146431,Biaya cuci truk
+18,2024-06-06,Pak Joko,H 1111 AA,Depot Air Segar,8000,398030,0,Pemasukan,398030,Pembayaran lunas
+19,2024-06-06,Pak Dedi,H 5678 XY,Toko Sumber Rejeki,8000,372953,0,Pemasukan,372953,Pembayaran lunas
+20,2024-06-07,Pak Andi,H 3333 CC,Depot Tirta Jaya,10000,335442,0,Pemasukan,335442,Pembayaran lunas
+21,2024-06-07,Pak Dedi,H 1234 CD,Perbaikan Ban,-,0,175609,Pengeluaran,-175609,Biaya perbaikan ban
+22,2024-06-07,Pak Budi,H 5678 XY,Warung Lesehan Berkah,6000,303716,0,Pemasukan,303716,Pembayaran lunas
+23,2024-06-07,Pak Hendra,H 2222 BB,Servis Mesin,-,0,212040,Pengeluaran,-212040,Biaya servis mesin
+24,2024-06-08,Pak Eko,H 1111 AA,Toko Sumber Rejeki,8000,354803,0,Pemasukan,354803,Pembayaran lunas
+25,2024-06-08,Pak Budi,H 3333 CC,Depot Air Sehat,6000,373515,0,Pemasukan,373515,Pembayaran lunas
+26,2024-06-08,Pak Hendra,H 2222 BB,Isi Solar,-,0,199655,Pengeluaran,-199655,Biaya isi solar
+27,2024-06-09,Pak Rudi,H 5678 XY,Depot Tirta Jaya,10000,376188,0,Pemasukan,376188,Pembayaran lunas
+28,2024-06-09,Pak Andi,H 2222 BB,Toko Sumber Rejeki,6000,295860,0,Pemasukan,295860,Pembayaran lunas
+29,2024-06-09,Pak Slamet,,Warung Lesehan Berkah,10000,358587,0,Pemasukan,358587,Pembayaran lunas
+30,2024-06-09,Pak Hendra,H 4444 DD,Servis Mesin,-,0,155203,Pengeluaran,-155203,Biaya servis mesin
+31,2024-06-10,Pak Hendra,H 3333 CC,Warung Makan Sari Rasa,8000,294432,0,Pemasukan,294432,Pembayaran lunas
+32,2024-06-10,Pak Rudi,H 1111 AA,Depot Air Segar,8000,330467,0,Pemasukan,330467,Pembayaran lunas
+33,2024-06-10,Pak Slamet,H 4444 DD,Depot Air Segar,10000,301090,0,Pemasukan,301090,Pembayaran lunas
+34,2024-06-10,Pak Joko,H 1111 AA,Toko Maju Jaya,10000,298785,0,Pemasukan,298785,Pembayaran lunas
+35,2024-06-11,Pak Joko,H 3333 CC,Toko Sumber Rejeki,6000,396760,0,Pemasukan,396760,Pembayaran lunas
+36,2024-06-11,Pak Budi,H 2222 BB,Toko Maju Jaya,8000,369536,0,Pemasukan,369536,Pembayaran lunas
+37,2024-06-12,Pak Budi,H 3333 CC,Perbaikan Ban,-,0,162461,Pengeluaran,-162461,Biaya perbaikan ban
+38,2024-06-12,Pak Budi,H 1234 CD,Warung Lesehan Berkah,8000,352300,0,Pemasukan,352300,Pembayaran lunas
+39,2024-06-13,Pak Joko,H 1234 CD,Depot Air Sehat,6000,297741,0,Pemasukan,297741,Pembayaran lunas
+40,2024-06-13,Pak Hendra,H 5678 XY,Servis Mesin,-,0,75988,Pengeluaran,-75988,Biaya servis mesin
+41,2024-06-13,Pak Dedi,H 1234 CD,Ganti Oli,-,0,184622,Pengeluaran,-184622,Biaya ganti oli
+42,2024-06-13,Pak Hendra,H 5678 XY,Servis Mesin,-,0,236166,Pengeluaran,-236166,Biaya servis mesin
+43,2024-06-14,Pak Slamet,H 1234 CD,Warung Makan Sari Rasa,6000,376745,0,Pemasukan,376745,Pembayaran lunas
+44,2024-06-14,Pak Rudi,H 1111 AA,Toko Sumber Rejeki,6000,286098,0,Pemasukan,286098,Pembayaran lunas
+45,2024-06-14,Pak Joko,H 5678 XY,Warung Bu Darmi,8000,337864,0,Pemasukan,337864,Pembayaran lunas
+46,2024-06-15,Pak Budi,H 1111 AA,Warung Bu Darmi,6000,315407,0,Pemasukan,315407,Pembayaran lunas
+47,2024-06-15,Pak Slamet,H 2222 BB,Toko Sumber Rejeki,10000,351222,0,Pemasukan,351222,Pembayaran lunas
+48,2024-06-16,Pak Andi,H 2222 BB,Cuci Truk,-,0,65431,Pengeluaran,-65431,Biaya cuci truk
+49,2024-06-16,Pak Rudi,H 4444 DD,Depot Air Segar,10000,340944,0,Pemasukan,340944,Pembayaran lunas
+50,2024-06-17,Pak Eko,H 3333 CC,Depot Air Segar,8000,302003,0,Pemasukan,302003,Pembayaran lunas
+51,2024-06-17,Pak Hendra,H 1234 CD,Cuci Truk,-,0,167999,Pengeluaran,-167999,Biaya cuci truk
+52,2024-06-18,Pak Hendra,H 2222 BB,Cuci Truk,-,0,237437,Pengeluaran,-237437,Biaya cuci truk
+53,2024-06-18,Pak Andi,H 1111 AA,Depot Air Segar,10000,318178,0,Pemasukan,318178,Pembayaran lunas
+54,2024-06-19,Pak Eko,H 1234 CD,Depot Air Segar,10000,346851,0,Pemasukan,346851,Pembayaran lunas
+55,2024-06-19,Pak Dedi,H 1234 CD,Ganti Oli,-,0,173400,Pengeluaran,-173400,Biaya ganti oli
+56,2024-06-19,Pak Andi,H 4444 DD,Toko Maju Jaya,10000,300299,0,Pemasukan,300299,Pembayaran lunas
+57,2024-06-20,Pak Slamet,H 2222 BB,Perbaikan Ban,-,0,118819,Pengeluaran,-118819,Biaya perbaikan ban
+58,2024-06-20,Pak Hendra,H 1234 CD,Warung Bu Darmi,6000,358646,0,Pemasukan,358646,Pembayaran lunas
+59,2024-06-21,Pak Slamet,H 4444 DD,Depot Tirta Jaya,8000,390317,0,Pemasukan,390317,Pembayaran lunas
+60,2024-06-21,Pak Joko,H 4444 DD,Warung Lesehan Berkah,10000,331845,0,Pemasukan,331845,Pembayaran lunas
+61,2024-06-21,Pak Joko,H 5678 XY,Depot Air Segar,10000,301758,0,Pemasukan,301758,Pembayaran lunas
+62,2024-06-21,Pak Andi,H 3333 CC,Toko Maju Jaya,8000,398469,0,Pemasukan,398469,Pembayaran lunas
+63,2024-06-22,Pak Joko,H 2222 BB,Toko Maju Jaya,6000,285798,0,Pemasukan,285798,Pembayaran lunas
+64,2024-06-22,Pak Andi,H 5678 XY,Warung Lesehan Berkah,8000,328776,0,Pemasukan,328776,Pembayaran lunas
+65,2024-06-22,Pak Andi,H 5678 XY,Isi Solar,-,0,57638,Pengeluaran,-57638,Biaya isi solar
+66,2024-06-23,Pak Andi,H 1111 AA,Toko Maju Jaya,6000,299474,0,Pemasukan,299474,Pembayaran lunas
+67,2024-06-23,Pak Dedi,H 4444 DD,Toko Sumber Rejeki,10000,363959,0,Pemasukan,363959,Pembayaran lunas
+68,2024-06-23,Pak Rudi,H 4444 DD,Cuci Truk,-,0,104583,Pengeluaran,-104583,Biaya cuci truk
+69,2024-06-23,Pak Joko,H 3333 CC,Warung Lesehan Berkah,8000,331661,0,Pemasukan,331661,Pembayaran lunas
+70,2024-06-24,Pak Eko,H 5678 XY,Toko Maju Jaya,10000,345349,0,Pemasukan,345349,Pembayaran lunas
+71,2024-06-24,Pak Slamet,H 2222 BB,Ganti Oli,-,0,239975,Pengeluaran,-239975,Biaya ganti oli
+72,2024-06-24,Pak Budi,H 4444 DD,Depot Tirta Jaya,8000,346358,0,Pemasukan,346358,Pembayaran lunas
+73,2024-06-25,Pak Eko,H 2222 BB,Depot Air Segar,10000,308784,0,Pemasukan,308784,Pembayaran lunas
+74,2024-06-25,Pak Joko,H 2222 BB,Perbaikan Ban,-,0,60398,Pengeluaran,-60398,Biaya perbaikan ban
+75,2024-06-26,Pak Eko,,Servis Mesin,-,0,248252,Pengeluaran,-248252,Biaya servis mesin
+76,2024-06-26,Pak Hendra,H 1234 CD,Servis Mesin,-,0,177958,Pengeluaran,-177958,Biaya servis mesin
+77,2024-06-26,Pak Hendra,H 1111 AA,Depot Air Sehat,8000,391036,0,Pemasukan,391036,Pembayaran lunas
+78,2024-06-27,Pak Eko,H 1111 AA,Toko Maju Jaya,6000,328510,0,Pemasukan,328510,Pembayaran lunas
+79,2024-06-27,Pak Hendra,H 5678 XY,Isi Solar,-,0,182972,Pengeluaran,-182972,Biaya isi solar
+80,2024-06-27,Pak Rudi,H 4444 DD,Depot Air Segar,10000,343556,0,Pemasukan,343556,Pembayaran lunas
+81,2024-06-27,Pak Budi,H 1234 CD,Warung Makan Sari Rasa,8000,288889,0,Pemasukan,288889,Pembayaran lunas
+82,2024-06-28,Pak Slamet,H 1111 AA,Depot Air Segar,6000,391826,0,Pemasukan,391826,Pembayaran lunas
+83,2024-06-28,Pak Hendra,H 2222 BB,Toko Sumber Rejeki,8000,322229,0,Pemasukan,322229,Pembayaran lunas
+84,2024-06-28,Pak Slamet,H 5678 XY,Warung Lesehan Berkah,10000,330968,0,Pemasukan,330968,Pembayaran lunas
+85,2024-06-28,Pak Slamet,H 3333 CC,Ganti Oli,-,0,228092,Pengeluaran,-228092,Biaya ganti oli
+86,2024-06-29,Pak Eko,H 4444 DD,Toko Sumber Rejeki,10000,347487,0,Pemasukan,347487,Pembayaran lunas
+87,2024-06-29,Pak Dedi,H 2222 BB,Toko Sumber Rejeki,10000,301136,0,Pemasukan,301136,Pembayaran lunas
+88,2024-06-29,Pak Eko,H 5678 XY,Depot Air Sehat,6000,355651,0,Pemasukan,355651,Pembayaran lunas
+89,2024-06-29,Pak Andi,H 2222 BB,Toko Sumber Rejeki,6000,324242,0,Pemasukan,324242,Pembayaran lunas
+90,2024-06-30,Pak Budi,H 3333 CC,Toko Sumber Rejeki,10000,352184,0,Pemasukan,352184,Pembayaran lunas
+91,2024-06-30,Pak Eko,H 5678 XY,Warung Makan Sari Rasa,6000,370385,0,Pemasukan,370385,Pembayaran lunas
+92,2024-06-30,Pak Rudi,H 1111 AA,Perbaikan Ban,-,0,107817,Pengeluaran,-107817,Biaya perbaikan ban
+93,2024-06-30,Pak Dedi,H 1111 AA,Depot Air Segar,6000,304351,0,Pemasukan,304351,Pembayaran lunas
+94,2024-07-01,Pak Slamet,H 3333 CC,Warung Makan Sari Rasa,8000,356858,0,Pemasukan,356858,Pembayaran lunas
+95,2024-07-01,Pak Rudi,H 3333 CC,Depot Tirta Jaya,8000,328762,0,Pemasukan,328762,Pembayaran lunas
+96,2024-07-01,Pak Eko,H 1111 AA,Isi Solar,-,0,122931,Pengeluaran,-122931,Biaya isi solar
+97,2024-07-02,Pak Andi,H 5678 XY,Depot Air Segar,10000,382708,0,Pemasukan,382708,Pembayaran lunas
+98,2024-07-02,Pak Eko,H 4444 DD,Perbaikan Ban,-,0,181177,Pengeluaran,-181177,Biaya perbaikan ban
+99,2024-07-02,Pak Rudi,H 3333 CC,Toko Maju Jaya,6000,349073,0,Pemasukan,349073,Pembayaran lunas
+100,2024-07-03,Pak Budi,H 1234 CD,Depot Air Segar,10000,307224,0,Pemasukan,307224,Pembayaran lunas
+101,2024-07-03,Pak Dedi,H 4444 DD,Depot Air Segar,10000,322942,0,Pemasukan,322942,Pembayaran lunas
+102,2024-07-04,Pak Eko,H 1234 CD,Depot Air Segar,8000,332165,0,Pemasukan,332165,Pembayaran lunas
+103,2024-07-04,Pak Joko,H 3333 CC,Perbaikan Ban,-,0,140759,Pengeluaran,-140759,Biaya perbaikan ban
+104,2024-07-04,Pak Joko,H 3333 CC,Ganti Oli,-,0,99908,Pengeluaran,-99908,Biaya ganti oli
+105,2024-07-04,Pak Slamet,H 2222 BB,Warung Bu Darmi,8000,363933,0,Pemasukan,363933,Pembayaran lunas
+106,2024-07-05,Pak Dedi,H 4444 DD,Ganti Oli,-,0,141685,Pengeluaran,-141685,Biaya ganti oli
+107,2024-07-05,Pak Andi,H 1234 CD,Perbaikan Ban,-,0,80056,Pengeluaran,-80056,Biaya perbaikan ban
+108,2024-07-05,Pak Dedi,H 5678 XY,Warung Lesehan Berkah,8000,293945,0,Pemasukan,293945,Pembayaran lunas
+109,2024-07-05,Pak Rudi,H 2222 BB,Warung Bu Darmi,8000,349554,0,Pemasukan,349554,Pembayaran lunas
+110,2024-07-06,Pak Eko,H 1111 AA,Toko Maju Jaya,8000,333788,0,Pemasukan,333788,Pembayaran lunas
+111,2024-07-06,Pak Eko,H 1234 CD,Depot Air Segar,6000,379376,0,Pemasukan,379376,Pembayaran lunas
+112,2024-07-06,Pak Hendra,H 1234 CD,Depot Tirta Jaya,10000,326817,0,Pemasukan,326817,Pembayaran lunas
+113,2024-07-07,Pak Hendra,H 2222 BB,Cuci Truk,-,0,107092,Pengeluaran,-107092,Biaya cuci truk
+114,2024-07-07,Pak Dedi,,Toko Maju Jaya,6000,397413,0,Pemasukan,397413,Pembayaran lunas
+115,2024-07-07,Pak Rudi,H 3333 CC,Toko Sumber Rejeki,8000,398103,0,Pemasukan,398103,Pembayaran lunas
+116,2024-07-07,Pak Andi,H 4444 DD,Toko Maju Jaya,10000,347934,0,Pemasukan,347934,Pembayaran lunas
+117,2024-07-08,Pak Hendra,H 1111 AA,Toko Maju Jaya,8000,295232,0,Pemasukan,295232,Pembayaran lunas
+118,2024-07-08,Pak Joko,H 5678 XY,Depot Air Sehat,6000,317227,0,Pemasukan,317227,Pembayaran lunas
+119,2024-07-08,Pak Andi,H 1111 AA,Depot Tirta Jaya,10000,323694,0,Pemasukan,323694,Pembayaran lunas
+120,2024-07-09,Pak Joko,H 1111 AA,Warung Lesehan Berkah,8000,390643,0,Pemasukan,390643,Pembayaran lunas
+121,2024-07-09,Pak Andi,H 2222 BB,Isi Solar,-,0,62606,Pengeluaran,-62606,Biaya isi solar
+122,2024-07-09,Pak Andi,H 5678 XY,Cuci Truk,-,0,108718,Pengeluaran,-108718,Biaya cuci truk
+123,2024-07-10,Pak Budi,H 4444 DD,Warung Bu Darmi,6000,394562,0,Pemasukan,394562,Pembayaran lunas
+124,2024-07-10,Pak Rudi,H 4444 DD,Toko Maju Jaya,10000,377637,0,Pemasukan,377637,Pembayaran lunas
+125,2024-07-11,Pak Slamet,H 2222 BB,Isi Solar,-,0,169038,Pengeluaran,-169038,Biaya isi solar
+126,2024-07-11,Pak Joko,H 4444 DD,Isi Solar,-,0,87888,Pengeluaran,-87888,Biaya isi solar
+127,2024-07-12,,H 1234 CD,Isi Solar,-,0,119511,Pengeluaran,-119511,Biaya isi solar
+128,2024-07-12,Pak Joko,H 1111 AA,Toko Sumber Rejeki,8000,332258,0,Pemasukan,332258,Pembayaran lunas
+129,2024-07-12,Pak Andi,H 1234 CD,Depot Air Segar,10000,324691,0,Pemasukan,324691,Pembayaran lunas
+130,2024-07-13,Pak Rudi,H 2222 BB,Warung Lesehan Berkah,8000,383016,0,Pemasukan,383016,Pembayaran lunas
+131,2024-07-13,Pak Rudi,H 1111 AA,Servis Mesin,-,0,175322,Pengeluaran,-175322,Biaya servis mesin
+132,2024-07-13,Pak Rudi,H 1234 CD,Depot Air Sehat,6000,309145,0,Pemasukan,309145,Pembayaran lunas
+133,2024-07-14,Pak Slamet,H 5678 XY,Depot Tirta Jaya,10000,298048,0,Pemasukan,298048,Pembayaran lunas
+134,2024-07-14,Pak Rudi,H 1111 AA,Warung Bu Darmi,8000,351693,0,Pemasukan,351693,Pembayaran lunas
+135,2024-07-14,Pak Hendra,H 3333 CC,Ganti Oli,-,0,205108,Pengeluaran,-205108,Biaya ganti oli
+136,2024-07-15,Pak Joko,H 3333 CC,Toko Sumber Rejeki,6000,355896,0,Pemasukan,355896,Pembayaran lunas
+137,2024-07-15,Pak Slamet,H 2222 BB,Warung Makan Sari Rasa,8000,369603,0,Pemasukan,369603,Pembayaran lunas
+138,2024-07-15,Pak Andi,H 5678 XY,Depot Air Segar,10000,379702,0,Pemasukan,379702,Pembayaran lunas
+139,2024-07-15,Pak Slamet,H 1234 CD,Ganti Oli,-,0,139258,Pengeluaran,-139258,Biaya ganti oli
+140,2024-07-16,Pak Eko,H 1111 AA,Perbaikan Ban,-,0,139540,Pengeluaran,-139540,Biaya perbaikan ban
+141,2024-07-16,Pak Budi,H 5678 XY,Toko Sumber Rejeki,8000,310761,0,Pemasukan,310761,Pembayaran lunas
+142,2024-07-17,Pak Slamet,H 4444 DD,Isi Solar,-,0,197827,Pengeluaran,-197827,Biaya isi solar
+143,2024-07-17,Pak Joko,H 1234 CD,Warung Lesehan Berkah,6000,295114,0,Pemasukan,295114,Pembayaran lunas
+144,2024-07-18,Pak Eko,H 1234 CD,Toko Sumber Rejeki,10000,349934,0,Pemasukan,349934,Pembayaran lunas
+145,2024-07-18,Pak Dedi,H 3333 CC,Servis Mesin,-,0,106810,Pengeluaran,-106810,Biaya servis mesin
+146,2024-07-19,Pak Rudi,H 5678 XY,Depot Air Sehat,10000,285397,0,Pemasukan,285397,Pembayaran lunas
+147,2024-07-19,Pak Eko,H 1111 AA,Cuci Truk,-,0,67955,Pengeluaran,-67955,Biaya cuci truk
+148,2024-07-19,Pak Andi,H 2222 BB,Depot Tirta Jaya,8000,384845,0,Pemasukan,384845,Pembayaran lunas
+149,2024-07-20,Pak Dedi,H 1234 CD,Warung Lesehan Berkah,10000,289061,0,Pemasukan,289061,Pembayaran lunas
+150,2024-07-20,Pak Joko,H 2222 BB,Toko Sumber Rejeki,8000,383832,0,Pemasukan,383832,Pembayaran lunas
+151,2024-07-20,Pak Slamet,H 4444 DD,Warung Makan Sari Rasa,10000,304836,0,Pemasukan,304836,Pembayaran lunas
+152,2024-07-21,Pak Eko,H 1111 AA,Toko Sumber Rejeki,10000,320247,0,Pemasukan,320247,Pembayaran lunas
+153,2024-07-21,Pak Hendra,H 1111 AA,Warung Bu Darmi,8000,339311,0,Pemasukan,339311,Pembayaran lunas
+154,2024-07-22,Pak Slamet,H 1234 CD,Warung Makan Sari Rasa,8000,306463,0,Pemasukan,306463,Pembayaran lunas
+155,2024-07-22,Pak Eko,H 3333 CC,Servis Mesin,-,0,163291,Pengeluaran,-163291,Biaya servis mesin
+156,2024-07-22,Pak Hendra,H 5678 XY,Depot Air Segar,6000,383781,0,Pemasukan,383781,Pembayaran lunas
+157,2024-07-22,Pak Hendra,H 4444 DD,Depot Tirta Jaya,8000,298387,0,Pemasukan,298387,Pembayaran lunas
+158,2024-07-23,Pak Rudi,H 3333 CC,Cuci Truk,-,0,119426,Pengeluaran,-119426,Biaya cuci truk
+159,2024-07-23,Pak Rudi,H 1111 AA,Warung Makan Sari Rasa,10000,325449,0,Pemasukan,325449,Pembayaran lunas
+160,2024-07-24,Pak Rudi,H 2222 BB,Warung Bu Darmi,8000,290357,0,Pemasukan,290357,Pembayaran lunas
+161,2024-07-24,Pak Andi,H 1234 CD,Warung Bu Darmi,10000,309190,0,Pemasukan,309190,Pembayaran lunas
+162,2024-07-25,Pak Budi,H 3333 CC,Depot Air Segar,10000,397523,0,Pemasukan,397523,Pembayaran lunas
+163,2024-07-25,Pak Eko,H 1234 CD,Isi Solar,-,0,215924,Pengeluaran,-215924,Biaya isi solar
+164,2024-07-25,Pak Dedi,H 3333 CC,Depot Tirta Jaya,6000,390732,0,Pemasukan,390732,Pembayaran lunas
+165,2024-07-26,Pak Joko,H 5678 XY,Warung Makan Sari Rasa,6000,304553,0,Pemasukan,304553,Pembayaran lunas
+166,2024-07-26,Pak Slamet,H 1111 AA,Warung Lesehan Berkah,6000,365760,0,Pemasukan,365760,Pembayaran lunas
+167,2024-07-26,Pak Joko,H 5678 XY,Ganti Oli,-,0,183554,Pengeluaran,-183554,Biaya ganti oli
+168,2024-07-26,Pak Hendra,H 1234 CD,Isi Solar,-,0,181193,Pengeluaran,-181193,Biaya isi solar
+169,2024-07-27,Pak Joko,H 3333 CC,Cuci Truk,-,0,52971,Pengeluaran,-52971,Biaya cuci truk
+170,2024-07-27,Pak Joko,H 3333 CC,Warung Makan Sari Rasa,10000,362310,0,Pemasukan,362310,Pembayaran lunas
+171,2024-07-27,Pak Hendra,H 5678 XY,Perbaikan Ban,-,0,209507,Pengeluaran,-209507,Biaya perbaikan ban
+172,2024-07-28,Pak Slamet,H 5678 XY,Toko Sumber Rejeki,10000,365856,0,Pemasukan,365856,Pembayaran lunas
+173,2024-07-28,Pak Dedi,H 2222 BB,Depot Air Sehat,10000,332775,0,Pemasukan,332775,Pembayaran lunas
+174,2024-07-28,Pak Andi,H 1111 AA,Cuci Truk,-,0,199020,Pengeluaran,-199020,Biaya cuci truk
+175,2024-07-29,Pak Andi,H 2222 BB,Toko Maju Jaya,8000,352008,0,Pemasukan,352008,Pembayaran lunas
+176,2024-07-29,Pak Rudi,H 2222 BB,Servis Mesin,-,0,128723,Pengeluaran,-128723,Biaya servis mesin
+177,2024-07-30,Pak Slamet,H 2222 BB,Depot Air Sehat,8000,326711,0,Pemasukan,326711,Pembayaran lunas
+178,2024-07-30,Pak Joko,H 5678 XY,Toko Sumber Rejeki,10000,390321,0,Pemasukan,390321,Pembayaran lunas
+179,2024-07-30,Pak Hendra,H 1111 AA,Toko Sumber Rejeki,10000,322572,0,Pemasukan,322572,Pembayaran lunas
+180,2024-07-30,Pak Slamet,H 2222 BB,Toko Maju Jaya,10000,376984,0,Pemasukan,376984,Pembayaran lunas
+181,2024-07-31,Pak Eko,H 3333 CC,Depot Air Segar,6000,373368,0,Pemasukan,373368,Pembayaran lunas
+182,2024-07-31,Pak Andi,H 1234 CD,Isi Solar,-,0,146077,Pengeluaran,-146077,Biaya isi solar
+183,2024-07-31,Pak Rudi,H 1234 CD,Warung Makan Sari Rasa,10000,349693,0,Pemasukan,349693,Pembayaran lunas
+184,2024-08-01,Pak Andi,H 4444 DD,Depot Air Sehat,10000,326240,0,Pemasukan,326240,Pembayaran lunas
+185,2024-08-01,Pak Eko,H 4444 DD,Isi Solar,-,0,87871,Pengeluaran,-87871,Biaya isi solar
+186,2024-08-01,Pak Hendra,H 1234 CD,Warung Lesehan Berkah,6000,361471,0,Pemasukan,361471,Pembayaran lunas
+187,2024-08-01,Pak Joko,H 4444 DD,Isi Solar,-,0,66477,Pengeluaran,-66477,Biaya isi solar
+188,2024-08-02,Pak Eko,H 5678 XY,Warung Bu Darmi,10000,393101,0,Pemasukan,393101,Pembayaran lunas
+189,2024-08-02,Pak Slamet,H 2222 BB,Perbaikan Ban,-,0,50235,Pengeluaran,-50235,Biaya perbaikan ban
+190,2024-08-02,Pak Slamet,H 3333 CC,Depot Tirta Jaya,8000,333968,0,Pemasukan,333968,Pembayaran lunas
+191,2024-08-03,Pak Slamet,H 3333 CC,Cuci Truk,-,0,147494,Pengeluaran,-147494,Biaya cuci truk
+192,2024-08-03,Pak Dedi,H 5678 XY,Warung Bu Darmi,10000,368045,0,Pemasukan,368045,Pembayaran lunas
+193,2024-08-03,Pak Hendra,H 4444 DD,Perbaikan Ban,-,0,132972,Pengeluaran,-132972,Biaya perbaikan ban
+194,2024-08-03,Pak Slamet,H 5678 XY,Toko Maju Jaya,10000,359366,0,Pemasukan,359366,Pembayaran lunas
+195,2024-08-04,Pak Slamet,H 4444 DD,Servis Mesin,-,0,167526,Pengeluaran,-167526,Biaya servis mesin
+196,2024-08-04,Pak Rudi,H 1111 AA,Toko Sumber Rejeki,10000,318147,0,Pemasukan,318147,Pembayaran lunas
+197,2024-08-04,Pak Hendra,H 2222 BB,Warung Makan Sari Rasa,6000,367166,0,Pemasukan,367166,Pembayaran lunas
+198,2024-08-04,Pak Dedi,H 2222 BB,Warung Lesehan Berkah,8000,369964,0,Pemasukan,369964,Pembayaran lunas
+199,2024-08-05,Pak Hendra,H 4444 DD,Warung Bu Darmi,10000,395278,0,Pemasukan,395278,Pembayaran lunas
+200,2024-08-05,Pak Hendra,H 1111 AA,Warung Makan Sari Rasa,8000,370110,0,Pemasukan,370110,Pembayaran lunas
+201,2024-08-05,Pak Eko,H 4444 DD,Depot Air Sehat,8000,380315,0,Pemasukan,380315,Pembayaran lunas
+202,2024-08-06,Pak Andi,H 1234 CD,Toko Maju Jaya,8000,378650,0,Pemasukan,378650,Pembayaran lunas
+203,2024-08-06,Pak Budi,H 2222 BB,Toko Sumber Rejeki,8000,339741,0,Pemasukan,339741,Pembayaran lunas
+204,2024-08-06,Pak Slamet,H 1111 AA,Depot Air Segar,10000,352540,0,Pemasukan,352540,Pembayaran lunas
+205,2024-08-06,Pak Joko,H 1111 AA,Warung Makan Sari Rasa,8000,351260,0,Pemasukan,351260,Pembayaran lunas
+206,2024-08-07,Pak Joko,H 1111 AA,Depot Air Sehat,8000,371816,0,Pemasukan,371816,Pembayaran lunas
+207,2024-08-07,Pak Slamet,H 4444 DD,Perbaikan Ban,-,0,202398,Pengeluaran,-202398,Biaya perbaikan ban
+208,2024-08-07,Pak Dedi,H 4444 DD,Warung Makan Sari Rasa,10000,286797,0,Pemasukan,286797,Pembayaran lunas
+209,2024-08-08,Pak Joko,H 1234 CD,Isi Solar,-,0,128034,Pengeluaran,-128034,Biaya isi solar
+210,2024-08-08,Pak Slamet,H 1111 AA,Toko Maju Jaya,6000,289724,0,Pemasukan,289724,Pembayaran lunas
+211,2024-08-08,Pak Andi,H 4444 DD,Perbaikan Ban,-,0,213409,Pengeluaran,-213409,Biaya perbaikan ban
+212,2024-08-08,Pak Joko,H 1234 CD,Ganti Oli,-,0,161145,Pengeluaran,-161145,Biaya ganti oli
+213,2024-08-09,Pak Slamet,H 2222 BB,Cuci Truk,-,0,248747,Pengeluaran,-248747,Biaya cuci truk
+214,2024-08-09,Pak Rudi,H 1111 AA,Depot Tirta Jaya,8000,321210,0,Pemasukan,321210,Pembayaran lunas
+215,2024-08-10,Pak Rudi,H 4444 DD,Ganti Oli,-,0,96530,Pengeluaran,-96530,Biaya ganti oli
+216,2024-08-10,Pak Rudi,H 4444 DD,Depot Air Segar,6000,321221,0,Pemasukan,321221,Pembayaran lunas
+217,2024-08-11,Pak Budi,H 1111 AA,Cuci Truk,-,0,162662,Pengeluaran,-162662,Biaya cuci truk
+218,2024-08-11,Pak Hendra,H 2222 BB,Depot Air Segar,8000,285644,0,Pemasukan,285644,Pembayaran lunas
+219,2024-08-11,Pak Joko,H 5678 XY,Warung Lesehan Berkah,10000,290452,0,Pemasukan,290452,Pembayaran lunas
+220,2024-08-11,Pak Joko,H 1111 AA,Depot Tirta Jaya,6000,335381,0,Pemasukan,335381,Pembayaran lunas
+221,2024-08-12,Pak Budi,H 4444 DD,Warung Bu Darmi,8000,302061,0,Pemasukan,302061,Pembayaran lunas
+222,2024-08-12,Pak Dedi,H 1234 CD,Depot Air Segar,6000,337770,0,Pemasukan,337770,Pembayaran lunas
+223,2024-08-13,Pak Rudi,H 5678 XY,Depot Air Segar,6000,391778,0,Pemasukan,391778,Pembayaran lunas
+224,2024-08-13,Pak Rudi,H 5678 XY,Depot Air Sehat,8000,367154,0,Pemasukan,367154,Pembayaran lunas
+225,2024-08-13,Pak Dedi,H 2222 BB,Toko Maju Jaya,6000,369649,0,Pemasukan,369649,Pembayaran lunas
+226,2024-08-13,Pak Dedi,H 4444 DD,Depot Tirta Jaya,10000,375902,0,Pemasukan,375902,Pembayaran lunas
+227,2024-08-14,Pak Dedi,H 3333 CC,Depot Air Segar,8000,357112,0,Pemasukan,357112,Pembayaran lunas
+228,2024-08-14,Pak Eko,H 1111 AA,Warung Makan Sari Rasa,8000,350998,0,Pemasukan,350998,Pembayaran lunas
+229,2024-08-14,Pak Slamet,H 3333 CC,Ganti Oli,-,0,237996,Pengeluaran,-237996,Biaya ganti oli
+230,2024-08-14,Pak Joko,H 5678 XY,Isi Solar,-,0,92580,Pengeluaran,-92580,Biaya isi solar
+231,2024-08-15,Pak Rudi,H 4444 DD,Warung Bu Darmi,10000,328005,0,Pemasukan,328005,Pembayaran lunas
+232,2024-08-15,Pak Joko,H 5678 XY,Depot Air Sehat,6000,306222,0,Pemasukan,306222,Pembayaran lunas
+233,2024-08-16,Pak Rudi,H 1234 CD,Depot Tirta Jaya,8000,334728,0,Pemasukan,334728,Pembayaran lunas
+234,2024-08-16,Pak Andi,H 3333 CC,Warung Bu Darmi,8000,295977,0,Pemasukan,295977,Pembayaran lunas
+235,2024-08-17,Pak Hendra,H 4444 DD,Isi Solar,-,0,169186,Pengeluaran,-169186,Biaya isi solar
+236,2024-08-17,Pak Dedi,H 3333 CC,Depot Tirta Jaya,8000,341765,0,Pemasukan,341765,Pembayaran lunas
+237,2024-08-17,Pak Eko,H 5678 XY,Warung Bu Darmi,8000,366351,0,Pemasukan,366351,Pembayaran lunas
+238,2024-08-18,Pak Budi,H 1234 CD,Depot Air Sehat,8000,304440,0,Pemasukan,304440,Pembayaran lunas
+239,2024-08-18,Pak Dedi,H 3333 CC,Warung Makan Sari Rasa,10000,330557,0,Pemasukan,330557,Pembayaran lunas
+240,2024-08-19,Pak Joko,H 1111 AA,Warung Lesehan Berkah,8000,383871,0,Pemasukan,383871,Pembayaran lunas
+241,2024-08-19,Pak Hendra,H 2222 BB,Depot Tirta Jaya,8000,344300,0,Pemasukan,344300,Pembayaran lunas
+242,2024-08-20,Pak Slamet,H 3333 CC,Depot Air Sehat,6000,367074,0,Pemasukan,367074,Pembayaran lunas
+243,2024-08-20,Pak Dedi,H 1234 CD,Warung Makan Sari Rasa,8000,347355,0,Pemasukan,347355,Pembayaran lunas
+244,2024-08-20,Pak Andi,H 1234 CD,Isi Solar,-,0,225249,Pengeluaran,-225249,Biaya isi solar
+245,2024-08-20,Pak Hendra,H 4444 DD,Depot Air Segar,6000,340085,0,Pemasukan,340085,Pembayaran lunas
+246,2024-08-21,Pak Andi,H 1234 CD,Depot Air Sehat,6000,292800,0,Pemasukan,292800,Pembayaran lunas
+247,2024-08-21,Pak Budi,H 4444 DD,Cuci Truk,-,0,64662,Pengeluaran,-64662,Biaya cuci truk
+248,2024-08-21,Pak Joko,H 4444 DD,Warung Lesehan Berkah,6000,384314,0,Pemasukan,384314,Pembayaran lunas
+249,2024-08-21,Pak Joko,H 1111 AA,Cuci Truk,-,0,246063,Pengeluaran,-246063,Biaya cuci truk
+250,2024-08-22,Pak Rudi,H 3333 CC,Toko Sumber Rejeki,10000,387012,0,Pemasukan,387012,Pembayaran lunas
+251,2024-08-22,Pak Joko,H 5678 XY,Toko Sumber Rejeki,8000,374198,0,Pemasukan,374198,Pembayaran lunas
+252,2024-08-22,Pak Slamet,H 3333 CC,Toko Maju Jaya,6000,311952,0,Pemasukan,311952,Pembayaran lunas
+253,2024-08-22,Pak Andi,H 5678 XY,Ganti Oli,-,0,60081,Pengeluaran,-60081,Biaya ganti oli
+254,2024-08-23,Pak Hendra,H 4444 DD,Toko Sumber Rejeki,10000,392177,0,Pemasukan,392177,Pembayaran lunas
+255,2024-08-23,Pak Slamet,H 1234 CD,Depot Air Segar,6000,322278,0,Pemasukan,322278,Pembayaran lunas
+256,2024-08-23,Pak Joko,H 2222 BB,Depot Tirta Jaya,8000,386872,0,Pemasukan,386872,Pembayaran lunas
+257,2024-08-24,Pak Andi,H 1111 AA,Perbaikan Ban,-,0,61808,Pengeluaran,-61808,Biaya perbaikan ban
+258,2024-08-24,Pak Slamet,H 3333 CC,Depot Tirta Jaya,8000,364393,0,Pemasukan,364393,Pembayaran lunas
+259,2024-08-24,Pak Joko,H 1234 CD,Toko Sumber Rejeki,6000,324286,0,Pemasukan,324286,Pembayaran lunas
+260,2024-08-24,Pak Rudi,H 2222 BB,Cuci Truk,-,0,62078,Pengeluaran,-62078,Biaya cuci truk
+261,2024-08-25,Pak Andi,H 5678 XY,Servis Mesin,-,0,150039,Pengeluaran,-150039,Biaya servis mesin
+262,2024-08-25,Pak Rudi,H 5678 XY,Cuci Truk,-,0,62082,Pengeluaran,-62082,Biaya cuci truk
+263,2024-08-26,Pak Rudi,H 2222 BB,Depot Air Segar,8000,393976,0,Pemasukan,393976,Pembayaran lunas
+264,2024-08-26,Pak Rudi,H 3333 CC,Ganti Oli,-,0,57899,Pengeluaran,-57899,Biaya ganti oli
+265,2024-08-27,Pak Slamet,H 1234 CD,Warung Bu Darmi,8000,348483,0,Pemasukan,348483,Pembayaran lunas
+266,2024-08-27,Pak Dedi,H 5678 XY,Perbaikan Ban,-,0,198368,Pengeluaran,-198368,Biaya perbaikan ban
+267,2024-08-28,Pak Rudi,H 1234 CD,Ganti Oli,-,0,97231,Pengeluaran,-97231,Biaya ganti oli
+268,2024-08-28,Pak Hendra,H 1111 AA,Depot Tirta Jaya,8000,321888,0,Pemasukan,321888,Pembayaran lunas
+269,2024-08-29,Pak Budi,H 1234 CD,Cuci Truk,-,0,230774,Pengeluaran,-230774,Biaya cuci truk
+270,2024-08-29,Pak Hendra,H 2222 BB,Toko Maju Jaya,6000,391255,0,Pemasukan,391255,Pembayaran lunas
+271,2024-08-29,Pak Eko,H 3333 CC,Depot Tirta Jaya,8000,367051,0,Pemasukan,367051,Pembayaran lunas
+272,2024-08-29,Pak Budi,H 5678 XY,Warung Makan Sari Rasa,8000,392590,0,Pemasukan,392590,Pembayaran lunas
+273,2024-08-30,Pak Dedi,H 4444 DD,Depot Air Segar,10000,332390,0,Pemasukan,332390,Pembayaran lunas
+274,2024-08-30,Pak Dedi,H 3333 CC,Depot Tirta Jaya,8000,364951,0,Pemasukan,364951,Pembayaran lunas
+275,2024-08-31,Pak Joko,H 4444 DD,Warung Makan Sari Rasa,6000,368038,0,Pemasukan,368038,Pembayaran lunas
+276,2024-08-31,Pak Eko,H 3333 CC,Warung Makan Sari Rasa,6000,285437,0,Pemasukan,285437,Pembayaran lunas
+277,2024-09-01,Pak Eko,H 2222 BB,Servis Mesin,-,0,145095,Pengeluaran,-145095,Biaya servis mesin
+278,2024-09-01,Pak Slamet,H 1111 AA,Depot Air Segar,6000,351985,0,Pemasukan,351985,Pembayaran lunas
+279,2024-09-01,Pak Hendra,H 4444 DD,Ganti Oli,-,0,236421,Pengeluaran,-236421,Biaya ganti oli
+280,2024-09-01,Pak Dedi,H 3333 CC,Toko Sumber Rejeki,6000,387961,0,Pemasukan,387961,Pembayaran lunas
+281,2024-09-02,Pak Budi,H 2222 BB,Depot Air Segar,8000,298282,0,Pemasukan,298282,Pembayaran lunas
+282,2024-09-02,Pak Hendra,H 1111 AA,Toko Sumber Rejeki,8000,300813,0,Pemasukan,300813,Pembayaran lunas
+283,2024-09-03,Pak Dedi,H 1111 AA,Warung Bu Darmi,10000,344746,0,Pemasukan,344746,Pembayaran lunas
+284,2024-09-03,Pak Joko,H 1234 CD,Depot Air Sehat,10000,391034,0,Pemasukan,391034,Pembayaran lunas
+285,2024-09-04,Pak Andi,H 3333 CC,Cuci Truk,-,0,62066,Pengeluaran,-62066,Biaya cuci truk
+286,2024-09-04,Pak Budi,H 5678 XY,Toko Sumber Rejeki,10000,369303,0,Pemasukan,369303,Pembayaran lunas
+287,2024-09-04,Pak Hendra,H 5678 XY,Depot Air Sehat,8000,345291,0,Pemasukan,345291,Pembayaran lunas
+288,,Pak Slamet,H 2222 BB,Toko Maju Jaya,6000,378203,0,Pemasukan,378203,Pembayaran lunas
+289,2024-09-05,Pak Eko,H 2222 BB,Depot Air Sehat,10000,396504,0,Pemasukan,396504,Pembayaran lunas
+290,2024-09-05,Pak Budi,H 4444 DD,Toko Maju Jaya,6000,352644,0,Pemasukan,352644,Pembayaran lunas
+291,2024-09-06,Pak Joko,H 1111 AA,Depot Tirta Jaya,8000,397064,0,Pemasukan,397064,Pembayaran lunas
+292,2024-09-06,Pak Hendra,H 4444 DD,Depot Air Segar,8000,295095,0,Pemasukan,295095,Pembayaran lunas
+293,2024-09-06,Pak Hendra,H 5678 XY,Warung Lesehan Berkah,6000,354874,0,Pemasukan,354874,Pembayaran lunas
+294,2024-09-06,Pak Andi,H 2222 BB,Toko Sumber Rejeki,10000,337077,0,Pemasukan,337077,Pembayaran lunas
+295,2024-09-07,Pak Joko,H 1111 AA,Isi Solar,-,0,65913,Pengeluaran,-65913,Biaya isi solar
+296,2024-09-07,Pak Eko,H 4444 DD,Warung Lesehan Berkah,10000,399127,0,Pemasukan,399127,Pembayaran lunas
+297,2024-09-07,Pak Andi,H 1234 CD,Depot Air Sehat,10000,382213,0,Pemasukan,382213,Pembayaran lunas
+298,2024-09-08,Pak Budi,H 3333 CC,Ganti Oli,-,0,104718,Pengeluaran,-104718,Biaya ganti oli
+299,2024-09-08,Pak Andi,H 4444 DD,Warung Makan Sari Rasa,6000,317295,0,Pemasukan,317295,Pembayaran lunas
+300,2024-09-09,Pak Hendra,H 1111 AA,Toko Maju Jaya,6000,330439,0,Pemasukan,330439,Pembayaran lunas
+301,2024-09-09,Pak Andi,H 1111 AA,Perbaikan Ban,-,0,235396,Pengeluaran,-235396,Biaya perbaikan ban
+302,2024-09-09,Pak Rudi,H 5678 XY,Warung Lesehan Berkah,8000,342282,0,Pemasukan,342282,Pembayaran lunas
+303,2024-09-09,Pak Slamet,H 5678 XY,Depot Air Segar,10000,327163,0,Pemasukan,327163,Pembayaran lunas
+304,2024-09-10,Pak Dedi,H 1111 AA,Warung Bu Darmi,8000,389855,0,Pemasukan,389855,Pembayaran lunas
+305,2024-09-10,Pak Budi,H 5678 XY,Ganti Oli,-,0,225036,Pengeluaran,-225036,Biaya ganti oli
+306,2024-09-10,Pak Joko,H 5678 XY,Depot Air Sehat,10000,356481,0,Pemasukan,356481,Pembayaran lunas
+307,2024-09-11,Pak Eko,H 1111 AA,Toko Sumber Rejeki,10000,382707,0,Pemasukan,382707,Pembayaran lunas
+308,2024-09-11,Pak Eko,H 5678 XY,Warung Lesehan Berkah,8000,297187,0,Pemasukan,297187,Pembayaran lunas
+309,2024-09-11,Pak Joko,H 3333 CC,Warung Lesehan Berkah,10000,322539,0,Pemasukan,322539,Pembayaran lunas
+310,2024-09-11,Pak Rudi,H 1111 AA,Warung Lesehan Berkah,10000,305907,0,Pemasukan,305907,Pembayaran lunas
+311,2024-09-12,Pak Dedi,H 3333 CC,Toko Sumber Rejeki,10000,374879,0,Pemasukan,374879,Pembayaran lunas
+312,2024-09-12,Pak Andi,H 2222 BB,Cuci Truk,-,0,72919,Pengeluaran,-72919,Biaya cuci truk
+313,2024-09-13,Pak Andi,H 3333 CC,Depot Air Segar,10000,333846,0,Pemasukan,333846,Pembayaran lunas
+314,2024-09-13,Pak Eko,H 1111 AA,Warung Bu Darmi,6000,396206,0,Pemasukan,396206,Pembayaran lunas
+315,2024-09-14,Pak Eko,H 4444 DD,Cuci Truk,-,0,129635,Pengeluaran,-129635,Biaya cuci truk
+316,2024-09-14,Pak Hendra,H 1111 AA,Depot Air Segar,8000,307481,0,Pemasukan,307481,Pembayaran lunas
+317,2024-09-14,Pak Joko,H 2222 BB,Toko Maju Jaya,10000,312657,0,Pemasukan,312657,Pembayaran lunas
+318,2024-09-15,Pak Rudi,H 5678 XY,Depot Tirta Jaya,8000,313442,0,Pemasukan,313442,Pembayaran lunas
+319,2024-09-15,Pak Dedi,H 3333 CC,Depot Air Sehat,10000,356132,0,Pemasukan,356132,Pembayaran lunas
+320,2024-09-15,Pak Eko,H 2222 BB,Depot Air Sehat,8000,342260,0,Pemasukan,342260,Pembayaran lunas
+321,2024-09-16,Pak Dedi,H 5678 XY,Toko Maju Jaya,6000,377472,0,Pemasukan,377472,Pembayaran lunas
+322,2024-09-16,Pak Dedi,H 5678 XY,Warung Lesehan Berkah,6000,330854,0,Pemasukan,330854,Pembayaran lunas
+323,2024-09-16,Pak Andi,H 4444 DD,Ganti Oli,-,0,150141,Pengeluaran,-150141,Biaya ganti oli
+324,2024-09-17,Pak Slamet,H 5678 XY,Warung Makan Sari Rasa,10000,386479,0,Pemasukan,386479,Pembayaran lunas
+325,2024-09-17,Pak Dedi,H 2222 BB,Depot Air Sehat,6000,340874,0,Pemasukan,340874,Pembayaran lunas
+326,2024-09-17,Pak Andi,H 3333 CC,Servis Mesin,-,0,200663,Pengeluaran,-200663,Biaya servis mesin
+327,2024-09-18,Pak Joko,H 3333 CC,Warung Bu Darmi,6000,382191,0,Pemasukan,382191,Pembayaran lunas
+328,2024-09-18,Pak Andi,H 5678 XY,Warung Makan Sari Rasa,10000,365606,0,Pemasukan,365606,Pembayaran lunas
+329,2024-09-19,Pak Eko,H 5678 XY,Perbaikan Ban,-,0,236371,Pengeluaran,-236371,Biaya perbaikan ban
+330,2024-09-19,Pak Dedi,H 2222 BB,Isi Solar,-,0,50259,Pengeluaran,-50259,Biaya isi solar
+331,2024-09-20,Pak Rudi,H #### DD,Warung Lesehan Berkah,8000,338660,0,Pemasukan,338660,Pembayaran lunas
+332,2024-09-20,Pak Hendra,H 4444 DD,Warung Bu Darmi,8000,364674,0,Pemasukan,364674,Pembayaran lunas
+333,2024-09-20,Pak Budi,H 2222 BB,Warung Makan Sari Rasa,6000,304899,0,Pemasukan,304899,Pembayaran lunas
+334,2024-09-21,Pak Eko,H 1111 AA,Depot Air Segar,6000,364527,0,Pemasukan,364527,Pembayaran lunas
+335,2024-09-21,Pak Dedi,H 4444 DD,Toko Maju Jaya,6000,357347,0,Pemasukan,357347,Pembayaran lunas
+336,2024-09-22,Pak Slamet,H 2222 BB,Depot Air Sehat,8000,331670,0,Pemasukan,331670,Pembayaran lunas
+337,2024-09-22,Pak Hendra,H 2222 BB,Cuci Truk,-,0,219420,Pengeluaran,-219420,Biaya cuci truk
+338,2024-09-22,Pak Budi,H 2222 BB,Toko Maju Jaya,8000,290491,0,Pemasukan,290491,Pembayaran lunas
+339,2024-09-23,Pak Eko,H 5678 XY,Warung Bu Darmi,8000,348625,0,Pemasukan,348625,Pembayaran lunas
+340,2024-09-23,Pak Eko,,Cuci Truk,-,0,136958,Pengeluaran,-136958,Biaya cuci truk
+341,2024-09-23,Pak Hendra,H 2222 BB,Warung Makan Sari Rasa,8000,339801,0,Pemasukan,339801,Pembayaran lunas
+342,2024-09-23,Pak Hendra,H 3333 CC,Cuci Truk,-,0,215610,Pengeluaran,-215610,Biaya cuci truk
+343,2024-09-24,Pak Joko,H 1234 CD,Warung Makan Sari Rasa,6000,380238,0,Pemasukan,380238,Pembayaran lunas
+344,2024-09-24,Pak Dedi,H 1111 AA,Toko Maju Jaya,8000,356178,0,Pemasukan,356178,Pembayaran lunas
+345,2024-09-24,Pak Budi,H 5678 XY,Depot Air Segar,10000,392681,0,Pemasukan,392681,Pembayaran lunas
+346,2024-09-25,Pak Slamet,H 2222 BB,Warung Bu Darmi,10000,287015,0,Pemasukan,287015,Pembayaran lunas
+347,2024-09-25,Pak Andi,H 2222 BB,Depot Tirta Jaya,6000,387439,0,Pemasukan,387439,Pembayaran lunas
+348,2024-09-26,Pak Eko,H 1111 AA,Warung Lesehan Berkah,6000,394613,0,Pemasukan,394613,Pembayaran lunas
+349,2024-09-26,Pak Joko,H 3333 CC,Toko Maju Jaya,10000,388229,0,Pemasukan,388229,Pembayaran lunas
+350,2024-09-26,Pak Joko,H 1234 CD,Toko Sumber Rejeki,10000,298483,0,Pemasukan,298483,Pembayaran lunas
+351,2024-09-27,Pak Joko,H 1111 AA,Toko Maju Jaya,6000,378854,0,Pemasukan,378854,Pembayaran lunas
+352,2024-09-27,Pak Hendra,H 1234 CD,Warung Lesehan Berkah,10000,346317,0,Pemasukan,346317,Pembayaran lunas
+353,2024-09-27,Pak Hendra,H 5678 XY,Servis Mesin,-,0,56052,Pengeluaran,-56052,Biaya servis mesin
+354,2024-09-28,Pak Andi,H 1234 CD,Toko Maju Jaya,8000,289756,0,Pemasukan,289756,Pembayaran lunas
+355,2024-09-28,Pak Budi,H 4444 DD,Depot Air Sehat,10000,320837,0,Pemasukan,320837,Pembayaran lunas
+356,2024-09-29,Pak Budi,H 1111 AA,Toko Maju Jaya,6000,303759,0,Pemasukan,303759,Pembayaran lunas
+357,2024-09-29,Pak Rudi,H 1234 CD,Toko Sumber Rejeki,10000,371668,0,Pemasukan,371668,Pembayaran lunas
+358,2024-09-29,Pak Dedi,H 3333 CC,Toko Maju Jaya,10000,387174,0,Pemasukan,387174,Pembayaran lunas
+359,2024-09-30,Pak Hendra,H 4444 DD,Warung Bu Darmi,8000,360742,0,Pemasukan,360742,Pembayaran lunas
+360,2024-09-30,Pak Joko,H 1111 AA,Toko Sumber Rejeki,10000,333497,0,Pemasukan,333497,Pembayaran lunas
+361,2024-09-30,Pak Joko,H 5678 XY,Perbaikan Ban,-,0,180152,Pengeluaran,-180152,Biaya perbaikan ban
+362,2024-10-01,Pak Joko,H 4444 DD,Depot Tirta Jaya,8000,358741,0,Pemasukan,358741,Pembayaran lunas
+363,2024-10-01,Pak Hendra,H 2222 BB,Toko Maju Jaya,6000,392368,0,Pemasukan,392368,Pembayaran lunas
+364,2024-10-01,Pak Andi,H 4444 DD,Warung Makan Sari Rasa,10000,397801,0,Pemasukan,397801,Pembayaran lunas
+365,2024-10-02,Pak Rudi,H 3333 CC,Warung Bu Darmi,8000,396550,0,Pemasukan,396550,Pembayaran lunas
+366,2024-10-02,Pak Eko,H 3333 CC,Depot Air Segar,8000,333727,0,Pemasukan,333727,Pembayaran lunas
+367,2024-10-02,Pak Hendra,H 4444 DD,Toko Sumber Rejeki,6000,348523,0,Pemasukan,348523,Pembayaran lunas
+368,2024-10-02,Pak Andi,H 5678 XY,Cuci Truk,-,0,161833,Pengeluaran,-161833,Biaya cuci truk
+369,2024-10-03,Pak Budi,H 4444 DD,Toko Sumber Rejeki,10000,314300,0,Pemasukan,314300,Pembayaran lunas
+370,2024-10-03,Pak Rudi,H 1234 CD,Depot Air Sehat,10000,351391,0,Pemasukan,351391,Pembayaran lunas
+371,2024-10-03,Pak Dedi,H 2222 BB,Ganti Oli,-,0,181625,Pengeluaran,-181625,Biaya ganti oli
+372,2024-10-03,Pak Budi,H 4444 DD,Warung Makan Sari Rasa,6000,349201,0,Pemasukan,349201,Pembayaran lunas
+373,2024-10-04,Pak Rudi,H 3333 CC,Depot Air Sehat,8000,365022,0,Pemasukan,365022,Pembayaran lunas
+374,2024-10-04,Pak Dedi,H 1111 AA,Depot Tirta Jaya,10000,394379,0,Pemasukan,394379,Pembayaran lunas
+375,2024-10-04,Pak Eko,H 3333 CC,Servis Mesin,-,0,118655,Pengeluaran,-118655,Biaya servis mesin
+376,2024-10-05,Pak Hendra,H 5678 XY,Ganti Oli,-,0,108937,Pengeluaran,-108937,Biaya ganti oli
+377,2024-10-05,Pak Budi,H 3333 CC,Warung Makan Sari Rasa,8000,379356,0,Pemasukan,379356,Pembayaran lunas
+378,2024-10-05,Pak Hendra,H 2222 BB,Depot Air Segar,8000,329688,0,Pemasukan,329688,Pembayaran lunas
+379,2024-10-05,Pak Budi,H 1111 AA,Warung Bu Darmi,6000,335948,0,Pemasukan,335948,Pembayaran lunas
+380,,Pak Budi,H 5678 XY,Warung Lesehan Berkah,6000,383298,0,Pemasukan,383298,Pembayaran lunas
+381,2024-10-06,Pak Hendra,H 4444 DD,Warung Bu Darmi,8000,390826,0,Pemasukan,390826,Pembayaran lunas
+382,2024-10-07,Pak Eko,H 3333 CC,Warung Bu Darmi,8000,291489,0,Pemasukan,291489,Pembayaran lunas
+383,2024-10-07,Pak Dedi,H 1111 AA,Warung Makan Sari Rasa,10000,358571,0,Pemasukan,358571,Pembayaran lunas
+384,2024-10-07,Pak Hendra,H 5678 XY,Toko Sumber Rejeki,8000,350642,0,Pemasukan,350642,Pembayaran lunas
+385,2024-10-08,Pak Rudi,H 4444 DD,Servis Mesin,-,0,217193,Pengeluaran,-217193,Biaya servis mesin
+386,2024-10-08,Pak Budi,H 3333 CC,Depot Air Segar,10000,396508,0,Pemasukan,396508,Pembayaran lunas
+387,2024-10-08,Pak Slamet,H 1111 AA,Toko Sumber Rejeki,8000,355403,0,Pemasukan,355403,Pembayaran lunas
+388,2024-10-09,Pak Joko,H 3333 CC,Depot Tirta Jaya,10000,353827,0,Pemasukan,353827,Pembayaran lunas
+389,2024-10-09,Pak Andi,H 4444 DD,Warung Lesehan Berkah,6000,335712,0,Pemasukan,335712,Pembayaran lunas
+390,2024-10-09,Pak Andi,H 4444 DD,Depot Air Segar,10000,306025,0,Pemasukan,306025,Pembayaran lunas
+391,2024-10-09,Pak Eko,H 5678 XY,Ganti Oli,-,0,76033,Pengeluaran,-76033,Biaya ganti oli
+392,2024-10-10,Pak Dedi,H 3333 CC,Warung Lesehan Berkah,8000,324065,0,Pemasukan,324065,Pembayaran lunas
+393,2024-10-10,Pak Slamet,H 5678 XY,Warung Lesehan Berkah,8000,367775,0,Pemasukan,367775,Pembayaran lunas
+394,2024-10-10,Pak Budi,H 2222 BB,Cuci Truk,-,0,125220,Pengeluaran,-125220,Biaya cuci truk
+395,2024-10-11,Pak Andi,H 1234 CD,Warung Lesehan Berkah,8000,393238,0,Pemasukan,393238,Pembayaran lunas
+396,2024-10-11,Pak Joko,H 2222 BB,Depot Air Sehat,6000,341578,0,Pemasukan,341578,Pembayaran lunas
+397,2024-10-11,Pak Slamet,H 3333 CC,Cuci Truk,-,0,130521,Pengeluaran,-130521,Biaya cuci truk
+398,2024-10-12,Pak Eko,H 4444 DD,Depot Tirta Jaya,8000,318931,0,Pemasukan,318931,Pembayaran lunas
+399,2024-10-12,Pak Joko,H #### DD,Depot Air Sehat,6000,320154,0,Pemasukan,320154,Pembayaran lunas
+400,2024-10-12,Pak Joko,H 4444 DD,Warung Bu Darmi,8000,324846,0,Pemasukan,324846,Pembayaran lunas
+401,2024-10-12,Pak Dedi,H 4444 DD,Warung Bu Darmi,6000,313552,0,Pemasukan,313552,Pembayaran lunas
+402,2024-10-13,Pak Eko,H 1111 AA,Isi Solar,-,0,75481,Pengeluaran,-75481,Biaya isi solar
+403,2024-10-13,Pak Hendra,H 4444 DD,Depot Tirta Jaya,6000,303741,0,Pemasukan,303741,Pembayaran lunas
+404,2024-10-14,Pak Andi,H 1234 CD,Warung Bu Darmi,8000,378692,0,Pemasukan,378692,Pembayaran lunas
+405,2024-10-14,Pak Hendra,H 2222 BB,Servis Mesin,-,0,183888,Pengeluaran,-183888,Biaya
+406,2024-10-14,Pak Dedi,,Cuci Truk,-,0,220106,Pengeluaran,-220106,Biaya cuci truk
+407,2024-10-14,Pak Eko,H 1111 AA,Warung Lesehan Berkah,6000,371961,0,Pemasukan,371961,Pembayaran lunas
+408,2024-10-15,Pak Eko,H 4444 DD,Toko Sumber Rejeki,6000,378964,0,Pemasukan,378964,Pembayaran lunas
+409,2024-10-15,Pak Eko,H 1234 CD,Toko Maju Jaya,6000,328645,0,Pemasukan,328645,Pembayaran lunas
+410,2024-10-15,Pak Hendra,H 5678 XY,Warung Makan Sari Rasa,8000,289204,0,Pemasukan,289204,Pembayaran lunas
+411,2024-10-16,Pak Slamet,H 1234 CD,Depot Tirta Jaya,6000,382247,0,Pemasukan,382247,Pembayaran lunas
+412,2024-10-16,Pak Slamet,H 4444 DD,Warung Makan Sari Rasa,10000,392200,0,Pemasukan,392200,Pembayaran lunas
+413,2024-10-16,Pak Joko,H 3333 CC,Warung Bu Darmi,6000,286525,0,Pemasukan,286525,Pembayaran lunas
+414,2024-10-17,Pak Joko,H 1234 CD,Warung Bu Darmi,10000,309190,0,Pemasukan,309190,Pembayaran lunas
+415,2024-10-17,Pak Eko,H 1234 CD,Warung Bu Darmi,6000,290920,0,Pemasukan,290920,Pembayaran lunas
+416,2024-10-18,Pak Dedi,H 3333 CC,Depot Air Sehat,10000,312871,0,Pemasukan,312871,Pembayaran lunas
+417,2024-10-18,Pak Hendra,H 3333 CC,Depot Air Sehat,6000,302297,0,Pemasukan,302297,Pembayaran lunas
+418,2024-10-18,Pak Hendra,H 1111 AA,Depot Tirta Jaya,6000,360318,0,Pemasukan,360318,Pembayaran lunas
+419,2024-10-19,Pak Hendra,H 1234 CD,Toko Sumber Rejeki,8000,371647,0,Pemasukan,371647,Pembayaran lunas
+420,2024-10-19,Pak Joko,H 1111 AA,Depot Tirta Jaya,8000,309159,0,Pemasukan,309159,Pembayaran lunas
+421,2024-10-19,Pak Dedi,H 4444 DD,Warung Bu Darmi,6000,335887,0,Pemasukan,335887,Pembayaran lunas
+422,2024-10-19,Pak Rudi,H 4444 DD,Depot Tirta Jaya,10000,289638,0,Pemasukan,289638,Pembayaran lunas
+423,2024-10-20,Pak Andi,H 1234 CD,Toko Sumber Rejeki,10000,287973,0,Pemasukan,287973,Pembayaran lunas
+424,2024-10-20,Pak Eko,H 1111 AA,Warung Bu Darmi,10000,381428,0,Pemasukan,381428,Pembayaran lunas
+425,2024-10-21,Pak Andi,H #### CC,Depot Air Sehat,6000,390728,0,Pemasukan,390728,Pembayaran lunas
+426,2024-10-21,Pak Budi,H 3333 CC,Warung Bu Darmi,10000,382390,0,Pemasukan,382390,Pembayaran lunas
+427,2024-10-21,Pak Budi,H 5678 XY,Cuci Truk,-,0,125274,Pengeluaran,-125274,Biaya cuci truk
+428,2024-10-22,Pak Rudi,H 1111 AA,Depot Air Sehat,8000,352522,0,Pemasukan,352522,Pembayaran lunas
+429,2024-10-22,Pak Hendra,H 4444 DD,Warung Makan Sari Rasa,6000,328584,0,Pemasukan,328584,Pembayaran lunas
+430,2024-10-23,Pak Andi,H 1234 CD,Warung Lesehan Berkah,10000,387697,0,Pemasukan,387697,Pembayaran lunas
+431,2024-10-23,Pak Eko,H 1111 AA,Depot Tirta Jaya,6000,348709,0,Pemasukan,348709,Pembayaran lunas
+432,2024-10-23,Pak Eko,H 1111 AA,Toko Maju Jaya,10000,378816,0,Pemasukan,378816,Pembayaran lunas
+433,2024-10-24,Pak Dedi,H 1234 CD,Depot Tirta Jaya,6000,399794,0,Pemasukan,399794,Pembayaran lunas
+434,2024-10-24,Pak Rudi,H 1111 AA,Depot Tirta Jaya,8000,347893,0,Pemasukan,347893,Pembayaran lunas
+435,2024-10-25,Pak Budi,H 3333 CC,Toko Sumber Rejeki,10000,324395,0,Pemasukan,324395,Pembayaran lunas
+436,2024-10-25,Pak Andi,H 1111 AA,,-,0,113209,Pengeluaran,-113209,Biaya servis mesin
+437,2024-10-25,Pak Joko,H 1234 CD,Warung Bu Darmi,6000,309971,0,Pemasukan,309971,Pembayaran lunas
+438,2024-10-26,Pak Dedi,H 5678 XY,Warung Bu Darmi,6000,310706,0,Pemasukan,310706,Pembayaran lunas
+439,2024-10-26,Pak Budi,H 2222 BB,Warung Bu Darmi,10000,369442,0,Pemasukan,369442,Pembayaran lunas
+440,2024-10-26,Pak Budi,H 2222 BB,Depot Air Segar,10000,325129,0,Pemasukan,325129,Pembayaran lunas
+441,2024-10-26,Pak Rudi,H 2222 BB,Warung Bu Darmi,6000,312559,0,Pemasukan,312559,Pembayaran lunas
+442,2024-10-27,Pak Andi,H 2222 BB,Toko Maju Jaya,6000,351289,0,Pemasukan,351289,Pembayaran lunas
+443,2024-10-27,Pak Eko,H 5678 XY,Toko Maju Jaya,10000,344201,0,Pemasukan,344201,Pembayaran lunas
+444,2024-10-27,Pak Slamet,H 1234 CD,Servis Mesin,-,0,186294,Pengeluaran,-186294,Biaya servis mesin
+445,2024-10-28,Pak Joko,H 5678 XY,Depot Air Segar,8000,325748,0,Pemasukan,325748,Pembayaran lunas
+446,2024-10-28,Pak Budi,H 5678 XY,Cuci Truk,-,0,69882,Pengeluaran,-69882,Biaya cuci truk
+447,2024-10-28,Pak Joko,H 2222 BB,Ganti Oli,-,0,133425,Pengeluaran,-133425,Biaya ganti oli
+448,2024-10-29,Pak Eko,H 1111 AA,Depot Air Sehat,10000,336532,0,Pemasukan,336532,Pembayaran lunas
+449,2024-10-29,Pak Eko,H 5678 XY,Warung Bu Darmi,6000,342564,0,Pemasukan,342564,Pembayaran lunas
+450,2024-10-29,Pak Slamet,H 1234 CD,Warung Lesehan Berkah,10000,315080,0,Pemasukan,315080,Pembayaran lunas
+451,2024-10-30,Pak Rudi,H 3333 CC,Perbaikan Ban,-,0,113410,Pengeluaran,-113410,Biaya perbaikan ban
+452,2024-10-30,Pak Slamet,H 1111 AA,Toko Sumber Rejeki,8000,287386,0,Pemasukan,287386,Pembayaran lunas
+453,2024-10-31,Pak Budi,H 3333 CC,Ganti Oli,-,0,88471,Pengeluaran,-88471,Biaya ganti oli
+454,2024-10-31,Pak Eko,H 5678 XY,Depot Air Segar,8000,341676,0,Pemasukan,341676,Pembayaran lunas
+455,2024-10-31,Pak Slamet,H 5678 XY,Depot Tirta Jaya,8000,291007,0,Pemasukan,291007,Pembayaran lunas
+456,2024-10-31,Pak Eko,H 2222 BB,Depot Tirta Jaya,10000,399675,0,Pemasukan,399675,Pembayaran lunas
+457,2024-11-01,Pak Andi,H 5678 XY,Toko Maju Jaya,10000,300451,0,Pemasukan,300451,Pembayaran lunas
+458,2024-11-01,Pak Rudi,H 3333 CC,Warung Bu Darmi,10000,309881,0,Pemasukan,309881,Pembayaran lunas
+459,2024-11-01,Pak Joko,H 1111 AA,Warung Makan Sari Rasa,8000,327088,0,Pemasukan,327088,Pembayaran lunas
+460,2024-11-02,Pak Andi,H 5678 XY,Warung Bu Darmi,10000,354845,0,Pemasukan,354845,Pembayaran lunas
+461,2024-11-02,Pak Joko,H 1111 AA,Warung Makan Sari Rasa,6000,370917,0,Pemasukan,370917,Pembayaran lunas
+462,2024-11-02,Pak Eko,H 4444 DD,Toko Maju Jaya,8000,360303,0,Pemasukan,360303,Pembayaran lunas
+463,2024-11-03,Pak Hendra,H 1234 CD,Isi Solar,-,0,192469,Pengeluaran,-192469,Biaya isi solar
+464,2024-11-03,Pak Eko,H 1234 CD,Warung Lesehan Berkah,6000,293802,0,Pemasukan,293802,Pembayaran lunas
+465,2024-11-03,Pak Andi,H 1234 CD,Depot Air Segar,6000,347804,0,Pemasukan,347804,Pembayaran lunas
+466,2024-11-04,Pak Hendra,H 3333 CC,Depot Air Segar,6000,352994,0,Pemasukan,352994,Pembayaran lunas
+467,2024-11-04,Pak Joko,H 1111 AA,Toko Maju Jaya,6000,301218,0,Pemasukan,301218,Pembayaran lunas
+468,2024-11-04,Pak Joko,H 2222 BB,Ganti Oli,-,0,230821,Pengeluaran,-230821,Biaya ganti oli
+469,2024-11-04,Pak Budi,H 5678 XY,Warung Makan Sari Rasa,6000,371304,0,Pemasukan,371304,Pembayaran lunas
+470,2024-11-05,Pak Joko,H 5678 XY,Warung Makan Sari Rasa,6000,333732,0,Pemasukan,333732,Pembayaran lunas
+471,2024-11-05,Pak Hendra,H 1234 CD,Depot Air Sehat,10000,295184,0,Pemasukan,295184,Pembayaran lunas
+472,2024-11-06,Pak Dedi,H 1111 AA,Depot Air Sehat,10000,368716,0,Pemasukan,368716,Pembayaran lunas
+473,2024-11-06,Pak Budi,H 5678 XY,Toko Maju Jaya,8000,378197,0,Pemasukan,378197,Pembayaran lunas
+474,2024-11-06,Pak Slamet,H 1111 AA,Warung Makan Sari Rasa,6000,321122,0,Pemasukan,321122,Pembayaran lunas
+475,2024-11-07,Pak Rudi,H 4444 DD,Depot Tirta Jaya,8000,398628,0,Pemasukan,398628,Pembayaran lunas
+476,2024-11-07,Pak Budi,H 4444 DD,Warung Lesehan Berkah,6000,389018,0,Pemasukan,389018,Pembayaran lunas
+477,2024-11-08,Pak Joko,H 1234 CD,Ganti Oli,-,0,212510,Pengeluaran,-212510,Biaya ganti oli
+478,2024-11-08,Pak Budi,H 3333 CC,Toko Maju Jaya,6000,360841,0,Pemasukan,360841,Pembayaran lunas
+479,2024-11-08,Pak Eko,H 2222 BB,Warung Bu Darmi,8000,355757,0,Pemasukan,355757,Pembayaran lunas
+480,2024-11-09,Pak Dedi,H 1111 AA,Depot Air Segar,8000,322951,0,Pemasukan,322951,Pembayaran lunas
+481,2024-11-09,Pak Joko,H 2222 BB,Depot Air Sehat,10000,308149,0,Pemasukan,308149,Pembayaran lunas
+482,2024-11-09,Pak Joko,H 3333 CC,Warung Lesehan Berkah,6000,305147,0,Pemasukan,305147,Pembayaran lunas
+483,2024-11-10,Pak Hendra,H 1234 CD,Warung Makan Sari Rasa,8000,318733,0,Pemasukan,318733,Pembayaran lunas
+484,2024-11-10,Pak Dedi,H 4444 DD,Depot Air Segar,6000,325445,0,Pemasukan,325445,Pembayaran lunas
+485,2024-11-11,Pak Hendra,H 4444 DD,Isi Solar,-,0,124741,Pengeluaran,-124741,Biaya isi solar
+486,2024-11-11,Pak Joko,H 4444 DD,Warung Makan Sari Rasa,10000,373168,0,Pemasukan,373168,Pembayaran lunas
+487,2024-11-11,Pak Budi,H 4444 DD,Warung Lesehan Berkah,10000,377378,0,Pemasukan,377378,Pembayaran lunas
+488,2024-11-11,Pak Rudi,H 1234 CD,Depot Tirta Jaya,10000,375868,0,Pemasukan,375868,Pembayaran lunas
+489,2024-11-12,Pak Andi,H 1234 CD,Perbaikan Ban,-,0,172431,Pengeluaran,-172431,Biaya perbaikan ban
+490,2024-11-12,Pak Eko,H 5678 XY,Depot Air Segar,6000,322579,0,Pemasukan,322579,Pembayaran lunas
+491,2024-11-12,Pak Slamet,H 1234 CD,Servis Mesin,-,0,231399,Pengeluaran,-231399,Biaya servis mesin
+492,2024-11-13,Pak Rudi,H 4444 DD,Toko Sumber Rejeki,8000,306526,0,Pemasukan,306526,Pembayaran lunas
+493,2024-11-13,Pak Rudi,H 1234 CD,Warung Lesehan Berkah,6000,354551,0,Pemasukan,354551,Pembayaran lunas
+494,2024-11-13,Pak Budi,H 1234 CD,Toko Maju Jaya,6000,363743,0,Pemasukan,363743,Pembayaran lunas
+495,2024-11-13,Pak Eko,H 4444 DD,Warung Makan Sari Rasa,6000,320340,0,Pemasukan,320340,Pembayaran lunas
+496,2024-11-14,Pak Hendra,H 1111 AA,Warung Makan Sari Rasa,10000,331511,0,Pemasukan,331511,Pembayaran lunas
+497,2024-11-14,Pak Slamet,H 2222 BB,Depot Tirta Jaya,6000,395202,0,Pemasukan,395202,Pembayaran lunas
+498,2024-11-14,Pak Eko,H 4444 DD,Isi Solar,-,0,156609,Pengeluaran,-156609,Biaya isi solar
+499,2024-11-14,Pak Andi,H 5678 XY,Depot Air Segar,8000,367649,0,Pemasukan,367649,Pembayaran lunas
+500,2024-11-15,Pak Dedi,H 1234 CD,Isi Solar,-,0,234388,Pengeluaran,-234388,Biaya isi solar
+501,2024-11-15,Pak Hendra,H 5678 XY,Warung Makan Sari Rasa,6000,329499,0,Pemasukan,329499,Pembayaran lunas
+502,2024-11-16,Pak Joko,H 4444 DD,Depot Air Segar,10000,331554,0,Pemasukan,331554,Pembayaran lunas
+503,2024-11-16,Pak Rudi,H 2222 BB,Ganti Oli,-,0,160213,Pengeluaran,-160213,Biaya ganti oli
+504,2024-11-16,Pak Slamet,H 1234 CD,Depot Air Segar,10000,295474,0,Pemasukan,295474,Pembayaran lunas
+505,2024-11-16,Pak Joko,H 2222 BB,Toko Maju Jaya,6000,309672,0,Pemasukan,309672,Pembayaran lunas
+506,2024-11-17,Pak Andi,H 1234 CD,Toko Maju Jaya,8000,302789,0,Pemasukan,302789,Pembayaran lunas
+507,2024-11-17,Pak Eko,H 3333 CC,Servis Mesin,-,0,165802,Pengeluaran,-165802,Biaya servis mesin
+508,2024-11-18,Pak Slamet,H 1111 AA,Depot Air Segar,8000,389597,0,Pemasukan,389597,Pembayaran lunas
+509,2024-11-18,Pak Joko,H 4444 DD,Warung Makan Sari Rasa,10000,323230,0,Pemasukan,323230,Pembayaran lunas
+510,2024-11-18,Pak Joko,H 1111 AA,Toko Maju Jaya,10000,379867,0,Pemasukan,379867,Pembayaran lunas
+511,2024-11-18,Pak Joko,H 1234 CD,Warung Makan Sari Rasa,10000,371406,0,Pemasukan,371406,Pembayaran lunas
+512,2024-11-19,Pak Rudi,H 4444 DD,Depot Air Sehat,8000,329909,0,Pemasukan,329909,Pembayaran lunas
+513,2024-11-19,Pak Dedi,H 1234 CD,Toko Sumber Rejeki,6000,311690,0,Pemasukan,311690,Pembayaran lunas
+514,2024-11-20,Pak Eko,H 2222 BB,Warung Bu Darmi,10000,374734,0,Pemasukan,374734,Pembayaran lunas
+515,2024-11-20,Pak Andi,H 3333 CC,Ganti Oli,-,0,184694,Pengeluaran,-184694,Biaya ganti oli
+516,2024-11-20,Pak Joko,H 3333 CC,Toko Sumber Rejeki,6000,392713,0,Pemasukan,392713,Pembayaran lunas
+517,2024-11-21,Pak Dedi,H 3333 CC,Depot Air Segar,6000,356650,0,Pemasukan,356650,Pembayaran lunas
+518,2024-11-21,Pak Hendra,H 1111 AA,Warung Bu Darmi,8000,360194,0,Pemasukan,360194,Pembayaran lunas
+519,2024-11-22,Pak Joko,H 1111 AA,Depot Air Segar,8000,294959,0,Pemasukan,294959,Pembayaran lunas
+520,2024-11-22,Pak Budi,H 5678 XY,Isi Solar,-,0,215694,Pengeluaran,-215694,Biaya isi solar
+521,2024-11-22,Pak Andi,H 4444 DD,Perbaikan Ban,-,0,100120,Pengeluaran,-100120,Biaya perbaikan ban
+522,2024-11-22,Pak Dedi,H 3333 CC,Warung Bu Darmi,10000,336049,0,Pemasukan,336049,Pembayaran lunas
+523,2024-11-23,Pak Eko,H 5678 XY,Toko Maju Jaya,8000,393916,0,Pemasukan,393916,Pembayaran lunas
+524,2024-11-23,Pak Slamet,H 1111 AA,Toko Sumber Rejeki,6000,363687,0,Pemasukan,363687,Pembayaran lunas
+525,2024-11-24,Pak Eko,H 4444 DD,Toko Sumber Rejeki,6000,370927,0,Pemasukan,370927,Pembayaran lunas
+526,2024-11-24,Pak Eko,H 1111 AA,Warung Bu Darmi,8000,394046,0,Pemasukan,394046,Pembayaran lunas
+527,2024-11-24,Pak Andi,H 4444 DD,Warung Makan Sari Rasa,8000,312643,0,Pemasukan,312643,Pembayaran lunas
+528,2024-11-24,Pak Hendra,H 5678 XY,Cuci Truk,-,0,85966,Pengeluaran,-85966,Biaya cuci truk
+529,2024-11-25,Pak Rudi,H 1234 CD,Warung Makan Sari Rasa,10000,379569,0,Pemasukan,379569,Pembayaran lunas
+530,2024-11-25,Pak Joko,H 2222 BB,Warung Lesehan Berkah,6000,316505,0,Pemasukan,316505,Pembayaran lunas
+531,2024-11-25,Pak Joko,,Servis Mesin,-,0,231409,Pengeluaran,-231409,Biaya servis mesin
+532,2024-11-25,Pak Dedi,H 3333 CC,Depot Air Segar,6000,340339,0,Pemasukan,340339,Pembayaran lunas
+533,2024-11-26,Pak Andi,H 4444 DD,Depot Air Segar,10000,319687,0,Pemasukan,319687,Pembayaran lunas
+534,2024-11-26,Pak Andi,H 5678 XY,Warung Lesehan Berkah,8000,339460,0,Pemasukan,339460,Pembayaran lunas
+535,2024-11-27,Pak Joko,H 3333 CC,Warung Lesehan Berkah,10000,343984,0,Pemasukan,343984,Pembayaran lunas
+536,2024-11-27,Pak Dedi,H 5678 XY,Warung Lesehan Berkah,6000,378626,0,Pemasukan,378626,Pembayaran lunas
+537,2024-11-27,Pak Eko,H 2222 BB,Ganti Oli,-,0,121241,Pengeluaran,-121241,Biaya ganti oli
+538,2024-11-27,Pak Budi,H 1111 AA,Depot Tirta Jaya,6000,333542,0,Pemasukan,333542,Pembayaran lunas
+539,2024-11-28,Pak Hendra,H 3333 CC,Warung Lesehan Berkah,6000,329751,0,Pemasukan,329751,Pembayaran lunas
+540,2024-11-28,Pak Joko,H 4444 DD,Toko Maju Jaya,6000,343246,0,Pemasukan,343246,Pembayaran lunas
+541,2024-11-28,Pak Slamet,H 1111 AA,Depot Air Sehat,6000,358867,0,Pemasukan,358867,Pembayaran lunas
+542,2024-11-29,Pak Rudi,H 1234 CD,Cuci Truk,-,0,201656,Pengeluaran,-201656,Biaya cuci truk
+543,2024-11-29,Pak Eko,H 4444 DD,Depot Air Segar,10000,340572,0,Pemasukan,340572,Pembayaran lunas
+544,2024-11-29,Pak Eko,H 3333 CC,Servis Mesin,-,0,120327,Pengeluaran,-120327,Biaya servis mesin
+545,2024-11-29,Pak Rudi,H 3333 CC,Servis Mesin,-,0,77084,Pengeluaran,-77084,Biaya servis mesin
+546,2024-11-30,Pak Eko,H 1234 CD,Depot Air Sehat,6000,386285,0,Pemasukan,386285,Pembayaran lunas
+547,2024-11-30,Pak Dedi,H 1234 CD,Warung Lesehan Berkah,10000,370916,0,Pemasukan,370916,Pembayaran lunas
+548,2024-12-01,Pak Rudi,H 1234 CD,Warung Makan Sari Rasa,10000,297688,0,Pemasukan,297688,Pembayaran lunas
+549,2024-12-01,Pak Andi,H 1111 AA,Servis Mesin,-,0,82795,Pengeluaran,-82795,Biaya servis mesin
+550,2024-12-02,Pak Andi,H 1234 CD,Toko Maju Jaya,6000,342372,0,Pemasukan,342372,Pembayaran lunas
+551,2024-12-02,Pak Budi,H 1111 AA,Toko Sumber Rejeki,8000,297393,0,Pemasukan,297393,Pembayaran lunas
+552,2024-12-02,Pak Joko,H 3333 CC,Depot Air Sehat,8000,398301,0,Pemasukan,398301,Pembayaran lunas
+553,2024-12-03,Pak Budi,H 5678 XY,Servis Mesin,-,0,84234,Pengeluaran,-84234,Biaya servis mesin
+554,2024-12-03,Pak Rudi,H 1111 AA,Toko Maju Jaya,8000,293476,0,Pemasukan,293476,Pembayaran lunas
+555,2024-12-04,Pak Andi,H 1234 CD,Isi Solar,-,0,112272,Pengeluaran,-112272,Biaya isi solar
+556,2024-12-04,Pak Dedi,H 1111 AA,Depot Air Sehat,10000,360667,0,Pemasukan,360667,Pembayaran lunas
+557,2024-12-04,Pak Budi,H 2222 BB,Isi Solar,-,0,183515,Pengeluaran,-183515,Biaya isi solar
+558,2024-12-05,Pak Joko,H 5678 XY,Depot Air Sehat,8000,329456,0,Pemasukan,329456,Pembayaran lunas
+559,2024-12-05,Pak Joko,H 3333 CC,Toko Maju Jaya,8000,361254,0,Pemasukan,361254,Pembayaran lunas
+560,2024-12-05,Pak Joko,H 2222 BB,Isi Solar,-,0,89315,Pengeluaran,-89315,Biaya isi solar
+561,2024-12-06,Pak Hendra,H 3333 CC,Toko Maju Jaya,8000,290961,0,Pemasukan,290961,Pembayaran lunas
+562,2024-12-06,Pak Andi,H 1111 AA,Depot Tirta Jaya,8000,301677,0,Pemasukan,301677,Pembayaran lunas
+563,2024-12-06,Pak Joko,H 3333 CC,Ganti Oli,-,0,69286,Pengeluaran,-69286,Biaya ganti oli
+564,2024-12-06,Pak Joko,H 4444 DD,Isi Solar,-,0,197387,Pengeluaran,-197387,Biaya isi solar
+565,2024-12-07,Pak Dedi,H 1111 AA,Depot Air Sehat,10000,367105,0,Pemasukan,367105,Pembayaran lunas
+566,2024-12-07,Pak Eko,H 5678 XY,Servis Mesin,-,0,182271,Pengeluaran,-182271,Biaya servis mesin
+567,2024-12-08,Pak Rudi,H 4444 DD,Depot Air Segar,10000,335360,0,Pemasukan,335360,Pembayaran lunas
+568,,Pak Dedi,H 2222 BB,Warung Makan Sari Rasa,10000,356707,0,Pemasukan,356707,Pembayaran lunas
+569,2024-12-08,Pak Dedi,H 1111 AA,Isi Solar,-,0,82453,Pengeluaran,-82453,Biaya isi solar
+570,2024-12-09,Pak Joko,H 4444 DD,Depot Tirta Jaya,8000,379326,0,Pemasukan,379326,Pembayaran lunas
+571,2024-12-09,Pak Dedi,H 5678 XY,Toko Maju Jaya,10000,333951,0,Pemasukan,333951,Pembayaran lunas
+572,2024-12-09,Pak Joko,H 1234 CD,Depot Air Sehat,10000,298714,0,Pemasukan,298714,Pembayaran lunas
+573,2024-12-10,Pak Dedi,H 1234 CD,Warung Makan Sari Rasa,6000,357528,0,Pemasukan,357528,Pembayaran lunas
+574,2024-12-10,Pak Hendra,H 4444 DD,Depot Tirta Jaya,10000,288367,0,Pemasukan,288367,Pembayaran lunas
+575,2024-12-11,Pak Andi,H 2222 BB,Isi Solar,-,0,219611,Pengeluaran,-219611,Biaya isi solar
+576,2024-12-11,Pak Joko,H 4444 DD,Isi Solar,-,0,230848,Pengeluaran,-230848,Biaya isi solar
+577,2024-12-12,Pak Rudi,H 3333 CC,Toko Maju Jaya,6000,382932,0,Pemasukan,382932,Pembayaran lunas
+578,2024-12-12,Pak Rudi,H 2222 BB,Cuci Truk,-,0,79477,Pengeluaran,-79477,Biaya cuci truk
+579,2024-12-13,Pak Rudi,H 1234 CD,Toko Sumber Rejeki,6000,305660,0,Pemasukan,305660,Pembayaran lunas
+580,2024-12-13,Pak Andi,H 1234 CD,Depot Air Segar,10000,293191,0,Pemasukan,293191,Pembayaran lunas
+581,2024-12-13,Pak Andi,H 3333 CC,Warung Lesehan Berkah,6000,312678,0,Pemasukan,312678,Pembayaran lunas
+582,2024-12-14,Pak Hendra,,Warung Makan Sari Rasa,8000,316551,0,Pemasukan,316551,Pembayaran lunas
+583,2024-12-14,Pak Eko,H 5678 XY,Perbaikan Ban,-,0,249540,Pengeluaran,-249540,Biaya perbaikan ban
+584,2024-12-14,Pak Andi,H 4444 DD,Toko Maju Jaya,8000,393862,0,Pemasukan,393862,Pembayaran lunas
+585,2024-12-15,Pak Budi,H 2222 BB,Isi Solar,-,0,158975,Pengeluaran,-158975,Biaya isi solar
+586,2024-12-15,Pak Andi,H 1234 CD,Depot Air Sehat,8000,306020,0,Pemasukan,306020,Pembayaran lunas
+587,2024-12-16,Pak Slamet,H 1111 AA,Servis Mesin,-,0,245474,Pengeluaran,-245474,Biaya servis mesin
+588,2024-12-16,Pak Dedi,H 1111 AA,Servis Mesin,-,0,74816,Pengeluaran,-74816,Biaya servis mesin
+589,2024-12-17,Pak Eko,H 3333 CC,Warung Lesehan Berkah,10000,341755,0,Pemasukan,341755,Pembayaran lunas
+590,2024-12-17,Pak Eko,H 3333 CC,Isi Solar,-,0,73891,Pengeluaran,-73891,Biaya isi solar
+591,2024-12-17,Pak Hendra,H 4444 DD,Warung Bu Darmi,8000,363207,0,Pemasukan,363207,Pembayaran lunas
+592,2024-12-18,Pak Hendra,H 5678 XY,Depot Air Sehat,10000,321729,0,Pemasukan,321729,Pembayaran lunas
+593,2024-12-18,Pak Rudi,H 2222 BB,Isi Solar,-,0,147605,Pengeluaran,-147605,Biaya isi solar
+594,2024-12-18,Pak Eko,H 2222 BB,Warung Lesehan Berkah,10000,396046,0,Pemasukan,396046,Pembayaran lunas
+595,2024-12-18,Pak Slamet,H 3333 CC,Warung Bu Darmi,6000,353557,0,Pemasukan,353557,Pembayaran lunas
+596,2024-12-19,Pak Dedi,H 1234 CD,Warung Lesehan Berkah,8000,354917,0,Pemasukan,354917,Pembayaran lunas
+597,2024-12-19,Pak Andi,H 1111 AA,Perbaikan Ban,-,0,213816,Pengeluaran,-213816,Biaya perbaikan ban
+598,2024-12-20,Pak Andi,H 2222 BB,Servis Mesin,-,0,199272,Pengeluaran,-199272,Biaya servis mesin
+599,2024-12-20,Pak Dedi,H 2222 BB,Warung Lesehan Berkah,8000,391317,0,Pemasukan,391317,Pembayaran lunas
+600,2024-12-20,Pak Hendra,H 3333 CC,Warung Lesehan Berkah,8000,382145,0,Pemasukan,382145,Pembayaran lunas
+601,2024-12-20,Pak Dedi,H 4444 DD,Ganti Oli,-,0,102828,Pengeluaran,-102828,Biaya ganti oli
+602,2024-12-21,Pak Budi,H 1111 AA,Warung Lesehan Berkah,10000,343374,0,Pemasukan,343374,Pembayaran lunas
+603,2024-12-21,Pak Dedi,H 1234 CD,Toko Maju Jaya,10000,367180,0,Pemasukan,367180,Pembayaran lunas
+604,2024-12-21,Pak Dedi,H 4444 DD,Warung Lesehan Berkah,10000,368128,0,Pemasukan,368128,Pembayaran lunas
+605,2024-12-22,Pak Andi,H 5678 XY,Cuci Truk,-,0,65962,Pengeluaran,-65962,Biaya cuci truk
+606,2024-12-22,Pak Joko,H 1111 AA,Depot Tirta Jaya,8000,353191,0,Pemasukan,353191,Pembayaran lunas
+607,2024-12-23,Pak Budi,H 1111 AA,Toko Maju Jaya,6000,294630,0,Pemasukan,294630,Pembayaran lunas
+608,2024-12-23,Pak Dedi,H 1234 CD,Isi Solar,-,0,57768,Pengeluaran,-57768,Biaya isi solar
+609,2024-12-23,Pak Budi,H 3333 CC,Toko Maju Jaya,8000,396479,0,Pemasukan,396479,Pembayaran lunas
+610,2024-12-24,Pak Hendra,H 1111 AA,Depot Air Sehat,10000,374098,0,Pemasukan,374098,Pembayaran lunas
+611,2024-12-24,Pak Slamet,H 3333 CC,Warung Lesehan Berkah,6000,392739,0,Pemasukan,392739,Pembayaran lunas
+612,2024-12-24,Pak Eko,H 3333 CC,Toko Maju Jaya,6000,306745,0,Pemasukan,306745,Pembayaran lunas
+613,2024-12-24,Pak Eko,H 2222 BB,Isi Solar,-,0,177397,Pengeluaran,-177397,Biaya isi solar
+614,2024-12-25,Pak Hendra,H 5678 XY,Toko Sumber Rejeki,6000,326345,0,Pemasukan,326345,Pembayaran lunas
+615,2024-12-25,Pak Joko,H 2222 BB,Toko Sumber Rejeki,8000,330751,0,Pemasukan,330751,Pembayaran lunas
+616,2024-12-26,Pak Eko,H 1234 CD,Depot Tirta Jaya,6000,315261,0,Pemasukan,315261,Pembayaran lunas
+617,2024-12-26,Pak Budi,H 5678 XY,Toko Sumber Rejeki,8000,358673,0,Pemasukan,358673,Pembayaran lunas
+618,2024-12-26,Pak Dedi,H 4444 DD,Toko Maju Jaya,6000,296679,0,Pemasukan,296679,Pembayaran lunas
+619,2024-12-27,Pak Andi,H 3333 CC,Warung Bu Darmi,6000,369302,0,Pemasukan,369302,Pembayaran lunas
+620,2024-12-27,Pak Andi,H 1234 CD,Ganti Oli,-,0,120914,Pengeluaran,-120914,Biaya ganti oli
+621,2024-12-27,Pak Eko,H 3333 CC,Warung Bu Darmi,8000,344842,0,Pemasukan,344842,Pembayaran lunas
+622,2024-12-27,Pak Dedi,H 2222 BB,Warung Bu Darmi,10000,363729,0,Pemasukan,363729,Pembayaran lunas
+623,2024-12-28,Pak Dedi,H 1234 CD,Toko Sumber Rejeki,6000,324940,0,Pemasukan,324940,Pembayaran lunas
+624,2024-12-28,Pak Joko,H 4444 DD,Warung Makan Sari Rasa,8000,313944,0,Pemasukan,313944,Pembayaran lunas
+625,2024-12-28,Pak Joko,H 1234 CD,Warung Lesehan Berkah,6000,358901,0,Pemasukan,358901,Pembayaran lunas
+626,2024-12-29,Pak Dedi,H 3333 CC,Warung Lesehan Berkah,10000,387232,0,Pemasukan,387232,Pembayaran lunas
+627,2024-12-29,Pak Joko,H 4444 DD,Toko Maju Jaya,8000,383036,0,Pemasukan,383036,Pembayaran lunas
+628,2024-12-29,Pak Rudi,H 1111 AA,Warung Lesehan Berkah,8000,383696,0,Pemasukan,383696,Pembayaran lunas
+629,2024-12-30,Pak Dedi,H 1234 CD,Toko Maju Jaya,8000,371932,0,Pemasukan,371932,Pembayaran lunas
+630,2024-12-30,Pak Rudi,H 3333 CC,Toko Sumber Rejeki,10000,291281,0,Pemasukan,291281,Pembayaran lunas
+631,2024-12-30,Pak Andi,H 1111 AA,Depot Air Sehat,10000,336508,0,Pemasukan,336508,Pembayaran lunas
+632,2024-12-31,Pak Andi,H 2222 BB,Depot Air Sehat,8000,318687,0,Pemasukan,318687,Pembayaran lunas
+633,2024-12-31,Pak Budi,H 1111 AA,Warung Makan Sari Rasa,6000,386323,0,Pemasukan,386323,Pembayaran lunas
+634,2024-01-01,Pak Budi,H 1111 AA,Warung Lesehan Berkah,10000,296759,0,Pemasukan,296759,Pembayaran lunas
+635,2024-01-01,Pak Slamet,H 3333 CC,Toko Maju Jaya,10000,336257,0,Pemasukan,336257,Pembayaran lunas
+636,2024-01-01,Pak Joko,H 1234 CD,Warung Makan Sari Rasa,6000,389173,0,Pemasukan,389173,Pembayaran lunas
+637,2024-01-02,Pak Joko,H 4444 DD,Toko Maju Jaya,10000,321365,0,Pemasukan,321365,Pembayaran lunas
+638,2024-01-02,Pak Slamet,H 2222 BB,Isi Solar,-,0,120986,Pengeluaran,-120986,Biaya isi solar
+639,2024-01-02,Pak Joko,H 3333 CC,Depot Air Segar,8000,293888,0,Pemasukan,293888,Pembayaran lunas
+640,2024-01-03,Pak Rudi,H 1234 CD,Depot Air Segar,6000,297756,0,Pemasukan,297756,Pembayaran lunas
+641,2024-01-03,Pak Hendra,H 4444 DD,Warung Bu Darmi,8000,304678,0,Pemasukan,304678,Pembayaran lunas
+642,2024-01-03,Pak Slamet,H 5678 XY,Warung Makan Sari Rasa,8000,383163,0,Pemasukan,383163,Pembayaran lunas
+643,2024-01-03,Pak Slamet,H 1234 CD,Toko Maju Jaya,8000,369903,0,Pemasukan,369903,Pembayaran lunas
+644,2024-01-04,Pak Dedi,H 3333 CC,Depot Air Segar,6000,376108,0,Pemasukan,376108,Pembayaran lunas
+645,2024-01-04,Pak Joko,H 1111 AA,Depot Air Sehat,10000,361960,0,Pemasukan,361960,Pembayaran lunas
+646,2024-01-05,Pak Rudi,H 4444 DD,Depot Air Segar,6000,285540,0,Pemasukan,285540,Pembayaran lunas
+647,2024-01-05,Pak Andi,H 1111 AA,Toko Sumber Rejeki,6000,302277,0,Pemasukan,302277,Pembayaran lunas
+648,2024-01-05,Pak Budi,H 1111 AA,Warung Lesehan Berkah,6000,290843,0,Pemasukan,290843,Pembayaran lunas
+649,2024-01-05,Pak Andi,H 1234 CD,Depot Air Segar,10000,323612,0,Pemasukan,323612,Pembayaran lunas
+650,2024-01-06,Pak Andi,H 3333 CC,Toko Maju Jaya,8000,344661,0,Pemasukan,344661,Pembayaran lunas
+651,2024-01-06,Pak Dedi,H 2222 BB,Toko Maju Jaya,8000,318301,0,Pemasukan,318301,Pembayaran lunas
+652,2024-01-06,Pak Rudi,H 3333 CC,Servis Mesin,-,0,233022,Pengeluaran,-233022,Biaya servis mesin
+653,2024-01-06,Pak Joko,H 4444 DD,Toko Sumber Rejeki,10000,285212,0,Pemasukan,285212,Pembayaran lunas
+654,2024-01-07,Pak Dedi,H 1234 CD,Warung Bu Darmi,10000,396010,0,Pemasukan,396010,Pembayaran lunas
+655,2024-01-07,Pak Andi,H 3333 CC,Isi Solar,-,0,203895,Pengeluaran,-203895,Biaya isi solar
+656,2024-01-07,Pak Eko,H 5678 XY,Warung Lesehan Berkah,8000,332132,0,Pemasukan,332132,Pembayaran lunas
+657,2024-01-07,Pak Joko,H 5678 XY,Toko Maju Jaya,10000,322742,0,Pemasukan,322742,Pembayaran lunas
+658,2024-01-08,Pak Eko,H 4444 DD,Cuci Truk,-,0,78784,Pengeluaran,-78784,Biaya cuci truk
+659,2024-01-08,Pak Hendra,H 2222 BB,Depot Tirta Jaya,6000,313980,0,Pemasukan,313980,Pembayaran lunas
+660,2024-01-08,Pak Budi,H 1111 AA,Warung Lesehan Berkah,10000,391992,0,Pemasukan,391992,Pembayaran lunas
+661,2024-01-08,Pak Hendra,H 5678 XY,Warung Lesehan Berkah,8000,326388,0,Pemasukan,326388,Pembayaran lunas
+662,2024-01-09,Pak Hendra,H 4444 DD,Servis Mesin,-,0,121636,Pengeluaran,-121636,Biaya servis mesin
+663,2024-01-09,Pak Joko,H 4444 DD,Toko Sumber Rejeki,6000,383554,0,Pemasukan,383554,Pembayaran lunas
+664,2024-01-09,Pak Eko,H 1234 CD,Servis Mesin,-,0,155367,Pengeluaran,-155367,Biaya servis mesin
+665,2024-01-09,Pak Slamet,H 1234 CD,Ganti Oli,-,0,235534,Pengeluaran,-235534,Biaya ganti oli
+666,2024-01-10,Pak Rudi,H 5678 XY,Warung Lesehan Berkah,6000,381466,0,Pemasukan,381466,Pembayaran lunas
+667,2024-01-10,Pak Budi,H 1111 AA,Warung Lesehan Berkah,10000,395005,0,Pemasukan,395005,Pembayaran lunas
+668,2024-01-11,Pak Rudi,H 4444 DD,Cuci Truk,-,0,100179,Pengeluaran,-100179,Biaya cuci truk
+669,2024-01-11,Pak Eko,H 2222 BB,Cuci Truk,-,0,161993,Pengeluaran,-161993,Biaya cuci truk
+670,2024-01-12,Pak Budi,H 1111 AA,Toko Maju Jaya,8000,393284,0,Pemasukan,393284,Pembayaran lunas
+671,2024-01-12,Pak Slamet,H 2222 BB,Depot Air Segar,10000,381455,0,Pemasukan,381455,Pembayaran lunas
+672,2024-01-12,Pak Hendra,H 5678 XY,Warung Lesehan Berkah,8000,383697,0,Pemasukan,383697,Pembayaran lunas
+673,2024-01-12,Pak Dedi,H 4444 DD,Toko Maju Jaya,8000,300638,0,Pemasukan,300638,Pembayaran lunas
+674,2024-01-13,Pak Slamet,H 1234 CD,Toko Maju Jaya,8000,297215,0,Pemasukan,297215,Pembayaran lunas
+675,2024-01-13,Pak Andi,H 1111 AA,Isi Solar,-,0,136355,Pengeluaran,-136355,Biaya isi solar
+676,2024-01-13,Pak Joko,H 5678 XY,Depot Air Segar,8000,337186,0,Pemasukan,337186,Pembayaran lunas
+677,2024-01-13,Pak Hendra,H 1111 AA,Warung Makan Sari Rasa,8000,374317,0,Pemasukan,374317,Pembayaran lunas
+678,2024-01-14,Pak Slamet,H 1234 CD,Warung Bu Darmi,10000,378187,0,Pemasukan,378187,Pembayaran lunas
+679,2024-01-14,Pak Slamet,H 1111 AA,Depot Air Sehat,10000,356870,0,Pemasukan,356870,Pembayaran lunas
+680,2024-01-14,Pak Andi,H 2222 BB,Warung Bu Darmi,8000,331781,0,Pemasukan,331781,Pembayaran lunas
+681,2024-01-15,Pak Eko,H 1111 AA,Warung Makan Sari Rasa,10000,344353,0,Pemasukan,344353,Pembayaran lunas
+682,2024-01-15,Pak Andi,H 4444 DD,Warung Lesehan Berkah,8000,354299,0,Pemasukan,354299,Pembayaran lunas
+683,2024-01-15,Pak Budi,H 2222 BB,Toko Sumber Rejeki,8000,323501,0,Pemasukan,323501,Pembayaran lunas
+684,2024-01-16,Pak Slamet,H 1111 AA,Depot Air Sehat,6000,336518,0,Pemasukan,336518,Pembayaran lunas
+685,2024-01-16,Pak Andi,H 3333 CC,Depot Air Segar,6000,352724,0,Pemasukan,352724,Pembayaran lunas
+686,2024-01-16,Pak Rudi,H 4444 DD,Warung Makan Sari Rasa,6000,315173,0,Pemasukan,315173,Pembayaran lunas
+687,2024-01-17,Pak Dedi,H 3333 CC,Depot Air Segar,10000,311347,0,Pemasukan,311347,Pembayaran lunas
+688,2024-01-17,Pak Eko,H 1234 CD,Warung Makan Sari Rasa,8000,309079,0,Pemasukan,309079,Pembayaran lunas
+689,2024-01-18,Pak Budi,H 3333 CC,Toko Maju Jaya,8000,317898,0,Pemasukan,317898,Pembayaran lunas
+690,2024-01-18,Pak Eko,H 1234 CD,Toko Maju Jaya,6000,292259,0,Pemasukan,292259,Pembayaran lunas
+691,2024-01-18,Pak Slamet,H 5678 XY,Depot Air Segar,8000,354166,0,Pemasukan,354166,Pembayaran lunas
+692,2024-01-19,Pak Eko,H 3333 CC,Ganti Oli,-,0,117315,Pengeluaran,-117315,Biaya ganti oli
+693,2024-01-19,Pak Hendra,H 3333 CC,Warung Bu Darmi,8000,312600,0,Pemasukan,312600,Pembayaran lunas
+694,2024-01-19,Pak Andi,H 5678 XY,Warung Bu Darmi,6000,346868,0,Pemasukan,346868,Pembayaran lunas
+695,2024-01-19,Pak Dedi,H 4444 DD,Cuci Truk,-,0,56818,Pengeluaran,-56818,Biaya cuci truk
+696,2024-01-20,Pak Joko,H 4444 DD,Toko Maju Jaya,6000,357908,0,Pemasukan,357908,Pembayaran lunas
+697,2024-01-20,Pak Budi,H 5678 XY,Isi Solar,-,0,181282,Pengeluaran,-181282,Biaya isi solar
+698,2024-01-20,Pak Andi,H 1234 CD,Warung Makan Sari Rasa,8000,324825,0,Pemasukan,324825,Pembayaran lunas
+699,2024-01-20,Pak Rudi,H 2222 BB,Toko Maju Jaya,10000,343715,0,Pemasukan,343715,Pembayaran lunas
+700,2024-01-21,Pak Andi,H 2222 BB,Toko Maju Jaya,8000,385188,0,Pemasukan,385188,Pembayaran lunas
+701,2024-01-21,Pak Slamet,H 2222 BB,Toko Maju Jaya,6000,320233,0,Pemasukan,320233,Pembayaran lunas
+702,2024-01-21,Pak Joko,H 3333 CC,Toko Maju Jaya,8000,379003,0,Pemasukan,379003,Pembayaran lunas
+703,2024-01-22,Pak Hendra,H 2222 BB,Depot Air Sehat,10000,327711,0,Pemasukan,327711,Pembayaran lunas
+704,2024-01-22,Pak Rudi,H 2222 BB,Depot Air Sehat,6000,395472,0,Pemasukan,395472,Pembayaran lunas
+705,2024-01-22,Pak Dedi,H 5678 XY,Warung Makan Sari Rasa,8000,299527,0,Pemasukan,299527,Pembayaran lunas
+706,2024-01-22,Pak Andi,H 1234 CD,Toko Sumber Rejeki,8000,307276,0,Pemasukan,307276,Pembayaran lunas
+707,2024-01-23,Pak Budi,H 1234 CD,Toko Sumber Rejeki,10000,386638,0,Pemasukan,386638,Pembayaran lunas
+708,2024-01-23,Pak Hendra,H 2222 BB,Depot Air Segar,10000,299750,0,Pemasukan,299750,Pembayaran lunas
+709,2024-01-24,Pak Andi,H 3333 CC,Warung Makan Sari Rasa,10000,354334,0,Pemasukan,354334,Pembayaran lunas
+710,2024-01-24,Pak Joko,H 1111 AA,Toko Sumber Rejeki,8000,285250,0,Pemasukan,285250,Pembayaran lunas
+711,2024-01-25,Pak Eko,H 5678 XY,Cuci Truk,-,0,67908,Pengeluaran,-67908,Biaya cuci truk
+712,2024-01-25,Pak Andi,H 5678 XY,Cuci Truk,-,0,161425,Pengeluaran,-161425,Biaya cuci truk
+713,2024-01-25,Pak Andi,H 2222 BB,Toko Maju Jaya,6000,384995,0,Pemasukan,384995,Pembayaran lunas
+714,2024-01-25,Pak Dedi,H 1111 AA,Perbaikan Ban,-,0,86500,Pengeluaran,-86500,Biaya perbaikan ban
+715,2024-01-26,Pak Joko,H 3333 CC,Servis Mesin,-,0,126304,Pengeluaran,-126304,Biaya servis mesin
+716,2024-01-26,Pak Dedi,H 4444 DD,Depot Tirta Jaya,6000,304465,0,Pemasukan,304465,Pembayaran lunas
+717,2024-01-26,Pak Slamet,H 2222 BB,Cuci Truk,-,0,216332,Pengeluaran,-216332,Biaya cuci truk
+718,2024-01-26,Pak Rudi,H 2222 BB,Depot Air Sehat,10000,375938,0,Pemasukan,375938,Pembayaran lunas
+719,2024-01-27,Pak Rudi,H 1234 CD,Servis Mesin,-,0,233784,Pengeluaran,-233784,Biaya servis mesin
+720,2024-01-27,Pak Andi,H 2222 BB,Depot Air Sehat,8000,387843,0,Pemasukan,387843,Pembayaran lunas
+721,2024-01-28,Pak Slamet,H 3333 CC,Toko Sumber Rejeki,6000,298224,0,Pemasukan,298224,Pembayaran lunas
+722,2024-01-28,Pak Andi,H 4444 DD,Toko Sumber Rejeki,10000,374088,0,Pemasukan,374088,Pembayaran lunas
+723,2024-01-28,Pak Dedi,H 1234 CD,Warung Makan Sari Rasa,8000,379814,0,Pemasukan,379814,Pembayaran lunas
+724,2024-01-29,Pak Rudi,,Servis Mesin,-,0,228613,Pengeluaran,-228613,Biaya servis mesin
+725,2024-01-29,Pak Slamet,H 1234 CD,Toko Maju Jaya,10000,346034,0,Pemasukan,346034,Pembayaran lunas
+726,2024-01-30,Pak Rudi,H 4444 DD,Depot Air Segar,8000,342438,0,Pemasukan,342438,Pembayaran lunas
+727,2024-01-30,Pak Dedi,H 4444 DD,Cuci Truk,-,0,188263,Pengeluaran,-188263,Biaya cuci truk
+728,2024-01-31,Pak Budi,H 5678 XY,Toko Sumber Rejeki,6000,399849,0,Pemasukan,399849,Pembayaran lunas
+729,2024-01-31,Pak Dedi,H 2222 BB,Warung Makan Sari Rasa,6000,391183,0,Pemasukan,391183,Pembayaran lunas
+730,2024-01-31,Pak Joko,H 1111 AA,Ganti Oli,-,0,55139,Pengeluaran,-55139,Biaya ganti oli
+731,2024-01-31,Pak Budi,H 5678 XY,Depot Air Segar,10000,331192,0,Pemasukan,331192,Pembayaran lunas
+732,2024-02-01,Pak Eko,H 5678 XY,Ganti Oli,-,0,73900,Pengeluaran,-73900,Biaya ganti oli
+733,2024-02-01,Pak Slamet,H 4444 DD,Warung Bu Darmi,8000,367678,0,Pemasukan,367678,Pembayaran lunas
+734,2024-02-02,Pak Budi,H 5678 XY,Warung Makan Sari Rasa,10000,397614,0,Pemasukan,397614,Pembayaran lunas
+735,2024-02-02,Pak Hendra,H 2222 BB,Toko Sumber Rejeki,8000,396670,0,Pemasukan,396670,Pembayaran lunas
+736,2024-02-03,Pak Dedi,H 3333 CC,Depot Air Segar,6000,364619,0,Pemasukan,364619,Pembayaran lunas
+737,2024-02-03,Pak Slamet,H 5678 XY,Depot Air Segar,10000,385536,0,Pemasukan,385536,Pembayaran lunas
+738,2024-02-03,Pak Rudi,H 1111 AA,Toko Maju Jaya,8000,288461,0,Pemasukan,288461,Pembayaran lunas
+739,2024-02-03,Pak Budi,H 5678 XY,Ganti Oli,-,0,161431,Pengeluaran,-161431,Biaya ganti oli
+740,2024-02-04,Pak Dedi,H 1111 AA,Warung Makan Sari Rasa,8000,332332,0,Pemasukan,332332,Pembayaran lunas
+741,2024-02-04,Pak Slamet,H 2222 BB,Warung Bu Darmi,8000,366916,0,Pemasukan,366916,Pembayaran lunas
+742,2024-02-04,Pak Andi,H 5678 XY,Warung Makan Sari Rasa,10000,330976,0,Pemasukan,330976,Pembayaran lunas
+743,2024-02-04,Pak Joko,H 1111 AA,Depot Air Sehat,10000,315923,0,Pemasukan,315923,Pembayaran lunas
+744,2024-02-05,Pak Hendra,H 1234 CD,Perbaikan Ban,-,0,222258,Pengeluaran,-222258,Biaya perbaikan ban
+745,2024-02-05,Pak Slamet,H 1234 CD,Ganti Oli,-,0,128121,Pengeluaran,-128121,Biaya ganti oli
+746,2024-02-06,Pak Budi,H 3333 CC,Depot Tirta Jaya,6000,394420,0,Pemasukan,394420,Pembayaran lunas
+747,2024-02-06,Pak Eko,H 2222 BB,Servis Mesin,-,0,247036,Pengeluaran,-247036,Biaya servis mesin
+748,2024-02-06,Pak Dedi,H 5678 XY,Warung Makan Sari Rasa,8000,314148,0,Pemasukan,314148,Pembayaran lunas
+749,2024-02-07,Pak Slamet,H 4444 DD,Depot Air Sehat,6000,373191,0,Pemasukan,373191,Pembayaran lunas
+750,2024-02-07,Pak Eko,H 1111 AA,Toko Maju Jaya,6000,287114,0,Pemasukan,287114,Pembayaran lunas
+751,2024-02-07,Pak Eko,H 4444 DD,Servis Mesin,-,0,191125,Pengeluaran,-191125,Biaya servis mesin
+752,2024-02-08,Pak Joko,H 1111 AA,Perbaikan Ban,-,0,166498,Pengeluaran,-166498,Biaya perbaikan ban
+753,2024-02-08,Pak Dedi,H 4444 DD,Toko Maju Jaya,8000,317935,0,Pemasukan,317935,Pembayaran lunas
+754,2024-02-09,Pak Budi,H 1111 AA,Toko Sumber Rejeki,8000,317749,0,Pemasukan,317749,Pembayaran lunas
+755,2024-02-09,Pak Eko,H 1111 AA,Isi Solar,-,0,238577,Pengeluaran,-238577,Biaya isi solar
+756,2024-02-09,Pak Budi,H 1111 AA,Ganti Oli,-,0,116756,Pengeluaran,-116756,Biaya ganti oli
+757,2024-02-09,Pak Eko,H 5678 XY,Toko Maju Jaya,10000,377024,0,Pemasukan,377024,Pembayaran lunas
+758,2024-02-10,Pak Joko,H 5678 XY,Depot Air Segar,8000,358287,0,Pemasukan,358287,Pembayaran lunas
+759,2024-02-10,Pak Dedi,H 5678 XY,Depot Air Segar,8000,307001,0,Pemasukan,307001,Pembayaran lunas
+760,2024-02-10,Pak Slamet,H 3333 CC,Depot Air Sehat,8000,391325,0,Pemasukan,391325,Pembayaran lunas
+761,2024-02-11,Pak Dedi,H 1111 AA,Depot Tirta Jaya,6000,332524,0,Pemasukan,332524,Pembayaran lunas
+762,2024-02-11,Pak Joko,H 1234 CD,Toko Sumber Rejeki,6000,312479,0,Pemasukan,312479,Pembayaran lunas
+763,2024-02-11,Pak Slamet,H 5678 XY,Warung Bu Darmi,10000,312584,0,Pemasukan,312584,Pembayaran lunas
+764,2024-02-11,Pak Andi,H 1234 CD,Depot Air Sehat,8000,312705,0,Pemasukan,312705,Pembayaran lunas
+765,2024-02-12,Pak Budi,H 2222 BB,Isi Solar,-,0,60626,Pengeluaran,-60626,Biaya isi solar
+766,2024-02-12,Pak Hendra,H 1234 CD,Isi Solar,-,0,220639,Pengeluaran,-220639,Biaya isi solar
+767,2024-02-12,Pak Slamet,H 5678 XY,Depot Air Segar,8000,292083,0,Pemasukan,292083,Pembayaran lunas
+768,2024-02-13,Pak Andi,H 5678 XY,Servis Mesin,-,0,151358,Pengeluaran,-151358,Biaya servis mesin
+769,2024-02-13,Pak Hendra,H 1111 AA,Warung Lesehan Berkah,6000,367420,0,Pemasukan,367420,Pembayaran lunas
+770,2024-02-14,Pak Slamet,H 2222 BB,Toko Maju Jaya,8000,345931,0,Pemasukan,345931,Pembayaran lunas
+771,2024-02-14,Pak Slamet,H 3333 CC,Depot Tirta Jaya,10000,387283,0,Pemasukan,387283,Pembayaran lunas
+772,2024-02-14,Pak Eko,H 2222 BB,Depot Air Segar,8000,361955,0,Pemasukan,361955,Pembayaran lunas
+773,2024-02-15,Pak Hendra,H 3333 CC,Depot Air Sehat,6000,371525,0,Pemasukan,371525,Pembayaran lunas
+774,2024-02-15,Pak Rudi,H 1111 AA,Servis Mesin,-,0,211302,Pengeluaran,-211302,Biaya servis mesin
+775,2024-02-16,Pak Hendra,H 5678 XY,Depot Tirta Jaya,6000,374528,0,Pemasukan,374528,Pembayaran lunas
+776,2024-02-16,Pak Joko,H 4444 DD,Isi Solar,-,0,154541,Pengeluaran,-154541,Biaya isi solar
+777,2024-02-16,Pak Budi,H 2222 BB,Depot Air Sehat,10000,319617,0,Pemasukan,319617,Pembayaran lunas
+778,,Pak Dedi,H 1111 AA,Toko Maju Jaya,10000,365642,0,Pemasukan,365642,Pembayaran lunas
+779,2024-02-17,Pak Dedi,H 1234 CD,Servis Mesin,-,0,54944,Pengeluaran,-54944,Biaya servis mesin
+780,2024-02-17,Pak Slamet,H 4444 DD,Warung Bu Darmi,10000,351269,0,Pemasukan,351269,Pembayaran lunas
+781,2024-02-17,Pak Rudi,H 5678 XY,Toko Sumber Rejeki,8000,310947,0,Pemasukan,310947,Pembayaran lunas
+782,2024-02-17,Pak Slamet,H 2222 BB,Isi Solar,-,0,62873,Pengeluaran,-62873,Biaya isi solar
+783,2024-02-18,Pak Andi,H 1111 AA,Servis Mesin,-,0,176350,Pengeluaran,-176350,Biaya servis mesin
+784,2024-02-18,Pak Hendra,H 4444 DD,Warung Makan Sari Rasa,6000,376827,0,Pemasukan,376827,Pembayaran lunas
+785,2024-02-18,Pak Slamet,H 2222 BB,Warung Bu Darmi,8000,372416,0,Pemasukan,372416,Pembayaran lunas
+786,2024-02-18,Pak Rudi,H 1111 AA,Depot Tirta Jaya,10000,331639,0,Pemasukan,331639,Pembayaran lunas
+787,2024-02-19,Pak Rudi,H 4444 DD,Warung Lesehan Berkah,6000,286270,0,Pemasukan,286270,Pembayaran lunas
+788,2024-02-19,Pak Hendra,H 2222 BB,Warung Bu Darmi,10000,386969,0,Pemasukan,386969,Pembayaran lunas
+789,2024-02-19,Pak Joko,H 3333 CC,Warung Makan Sari Rasa,8000,352601,0,Pemasukan,352601,Pembayaran lunas
+790,2024-02-20,Pak Joko,H 3333 CC,Depot Air Sehat,8000,392353,0,Pemasukan,392353,Pembayaran lunas
+791,2024-02-20,Pak Andi,H 5678 XY,Servis Mesin,-,0,84938,Pengeluaran,-84938,Biaya servis mesin
+792,2024-02-20,Pak Joko,H 1234 CD,Depot Air Sehat,8000,316781,0,Pemasukan,316781,Pembayaran lunas
+793,2024-02-21,Pak Budi,H 5678 XY,Toko Maju Jaya,6000,332210,0,Pemasukan,332210,Pembayaran lunas
+794,2024-02-21,Pak Rudi,H 1234 CD,Warung Bu Darmi,6000,394550,0,Pemasukan,394550,Pembayaran lunas
+795,2024-02-21,Pak Dedi,H 3333 CC,Toko Sumber Rejeki,10000,396001,0,Pemasukan,396001,Pembayaran lunas
+796,2024-02-22,Pak Andi,H 2222 BB,Warung Bu Darmi,6000,326322,0,Pemasukan,326322,Pembayaran lunas
+797,2024-02-22,Pak Hendra,H 1234 CD,Warung Lesehan Berkah,8000,387411,0,Pemasukan,387411,Pembayaran lunas
+798,2024-02-22,Pak Joko,H 4444 DD,Warung Makan Sari Rasa,8000,381636,0,Pemasukan,381636,Pembayaran lunas
+799,2024-02-23,Pak Dedi,H 1234 CD,Depot Air Segar,8000,288167,0,Pemasukan,288167,Pembayaran lunas
+800,2024-02-23,Pak Slamet,H 5678 XY,Warung Lesehan Berkah,8000,317685,0,Pemasukan,317685,Pembayaran lunas
+801,2024-02-23,Pak Joko,H 4444 DD,Toko Maju Jaya,8000,300764,0,Pemasukan,300764,Pembayaran lunas
+802,2024-02-24,Pak Slamet,H 4444 DD,Warung Lesehan Berkah,6000,295186,0,Pemasukan,295186,Pembayaran lunas
+803,2024-02-24,Pak Dedi,H 4444 DD,Toko Maju Jaya,8000,299908,0,Pemasukan,299908,Pembayaran lunas
+804,2024-02-25,Pak Eko,H 5678 XY,Warung Makan Sari Rasa,10000,392879,0,Pemasukan,392879,Pembayaran lunas
+805,2024-02-25,Pak Hendra,H 1111 AA,Toko Maju Jaya,8000,357162,0,Pemasukan,357162,Pembayaran lunas
+806,2024-02-25,Pak Rudi,H 3333 CC,Toko Sumber Rejeki,8000,379848,0,Pemasukan,379848,Pembayaran lunas
+807,2024-02-26,Pak Dedi,H 5678 XY,Servis Mesin,-,0,51389,Pengeluaran,-51389,Biaya servis mesin
+808,2024-02-26,Pak Hendra,H 2222 BB,Depot Tirta Jaya,10000,313262,0,Pemasukan,313262,Pembayaran lunas
+809,2024-02-26,Pak Dedi,H 1234 CD,Warung Makan Sari Rasa,8000,380749,0,Pemasukan,380749,Pembayaran lunas
+810,2024-02-27,Pak Rudi,H 5678 XY,Warung Lesehan Berkah,6000,304947,0,Pemasukan,304947,Pembayaran lunas
+811,2024-02-27,Pak Hendra,H 3333 CC,Warung Makan Sari Rasa,10000,381437,0,Pemasukan,381437,Pembayaran lunas
+812,2024-02-27,Pak Joko,H 2222 BB,Isi Solar,-,0,203128,Pengeluaran,-203128,Biaya isi solar
+813,2024-02-27,Pak Rudi,H 2222 BB,Toko Sumber Rejeki,8000,392282,0,Pemasukan,392282,Pembayaran lunas
+814,2024-02-28,Pak Rudi,H 3333 CC,Ganti Oli,-,0,203644,Pengeluaran,-203644,Biaya ganti oli
+815,2024-02-28,Pak Slamet,H 5678 XY,Warung Makan Sari Rasa,6000,325032,0,Pemasukan,325032,Pembayaran lunas
+816,2024-02-28,Pak Hendra,H 3333 CC,Isi Solar,-,0,83458,Pengeluaran,-83458,Biaya isi solar
+817,2024-02-28,Pak Rudi,H 1111 AA,Toko Sumber Rejeki,8000,355714,0,Pemasukan,355714,Pembayaran lunas
+818,2024-03-01,Pak Slamet,H 1234 CD,Cuci Truk,-,0,202673,Pengeluaran,-202673,Biaya cuci truk
+819,2024-03-01,Pak Eko,H 2222 BB,Perbaikan Ban,-,0,107491,Pengeluaran,-107491,Biaya perbaikan ban
+820,2024-03-01,Pak Budi,H 1234 CD,Ganti Oli,-,0,187192,Pengeluaran,-187192,Biaya ganti oli
+821,2024-03-01,Pak Joko,H 1234 CD,Toko Sumber Rejeki,10000,324100,0,Pemasukan,324100,Pembayaran lunas
+822,2024-03-02,Pak Slamet,H 1234 CD,Depot Tirta Jaya,6000,302581,0,Pemasukan,302581,Pembayaran lunas
+823,2024-03-02,Pak Joko,,Depot Air Sehat,8000,360774,0,Pemasukan,360774,Pembayaran lunas
+824,2024-03-03,Pak Rudi,H 1234 CD,Warung Bu Darmi,10000,394745,0,Pemasukan,394745,Pembayaran lunas
+825,2024-03-03,Pak Joko,H 2222 BB,Warung Lesehan Berkah,10000,395777,0,Pemasukan,395777,Pembayaran lunas
+826,2024-03-04,Pak Eko,H 1234 CD,Depot Air Sehat,8000,295328,0,Pemasukan,295328,Pembayaran lunas
+827,2024-03-04,Pak Rudi,H 2222 BB,Toko Maju Jaya,8000,371980,0,Pemasukan,371980,Pembayaran lunas
+828,2024-03-05,Pak Slamet,H 1234 CD,Perbaikan Ban,-,0,150282,Pengeluaran,-150282,Biaya perbaikan ban
+829,2024-03-05,Pak Rudi,H 5678 XY,Warung Makan Sari Rasa,10000,342144,0,Pemasukan,342144,Pembayaran lunas
+830,2024-03-05,Pak Eko,H 4444 DD,Warung Bu Darmi,10000,340001,0,Pemasukan,340001,Pembayaran lunas
+831,2024-03-05,Pak Eko,H 2222 BB,Cuci Truk,-,0,61630,Pengeluaran,-61630,Biaya cuci truk
+832,2024-03-06,Pak Rudi,H 4444 DD,Depot Air Segar,10000,355561,0,Pemasukan,355561,Pembayaran lunas
+833,2024-03-06,Pak Dedi,H 1234 CD,Warung Bu Darmi,8000,393715,0,Pemasukan,393715,Pembayaran lunas
+834,2024-03-06,Pak Dedi,H 1111 AA,Warung Makan Sari Rasa,8000,308967,0,Pemasukan,308967,Pembayaran lunas
+835,2024-03-06,Pak Slamet,H 2222 BB,Isi Solar,-,0,129440,Pengeluaran,-129440,Biaya isi solar
+836,2024-03-07,Pak Rudi,H 1111 AA,Depot Air Segar,8000,326168,0,Pemasukan,326168,Pembayaran lunas
+837,2024-03-07,Pak Eko,H 1234 CD,Warung Makan Sari Rasa,8000,335506,0,Pemasukan,335506,Pembayaran lunas
+838,2024-03-08,Pak Joko,H 4444 DD,Warung Lesehan Berkah,6000,305997,0,Pemasukan,305997,Pembayaran lunas
+839,2024-03-08,Pak Eko,H 2222 BB,Isi Solar,-,0,115790,Pengeluaran,-115790,Biaya isi solar
+840,2024-03-08,,H 4444 DD,Depot Air Sehat,8000,370218,0,Pemasukan,370218,Pembayaran lunas
+841,2024-03-08,Pak Rudi,H 1111 AA,Toko Maju Jaya,8000,333610,0,Pemasukan,333610,Pembayaran lunas
+842,2024-03-09,Pak Eko,H 1234 CD,Toko Maju Jaya,6000,388187,0,Pemasukan,388187,Pembayaran lunas
+843,2024-03-09,Pak Slamet,H 5678 XY,Warung Lesehan Berkah,10000,350638,0,Pemasukan,350638,Pembayaran lunas
+844,2024-03-09,Pak Dedi,H 3333 CC,Warung Lesehan Berkah,8000,383487,0,Pemasukan,383487,Pembayaran lunas
+845,2024-03-09,Pak Joko,H 2222 BB,Depot Air Sehat,6000,292615,0,Pemasukan,292615,Pembayaran lunas
+846,2024-03-10,Pak Slamet,H 2222 BB,Toko Sumber Rejeki,8000,317878,0,Pemasukan,317878,Pembayaran lunas
+847,2024-03-10,Pak Andi,H 5678 XY,Ganti Oli,-,0,105597,Pengeluaran,-105597,Biaya ganti oli
+848,2024-03-10,Pak Budi,H 5678 XY,Toko Maju Jaya,10000,364641,0,Pemasukan,364641,Pembayaran lunas
+849,2024-03-10,Pak Joko,H 4444 DD,Isi Solar,-,0,178039,Pengeluaran,-178039,Biaya isi solar
+850,2024-03-11,Pak Slamet,H 5678 XY,Depot Air Sehat,10000,301971,0,Pemasukan,301971,Pembayaran lunas
+851,2024-03-11,Pak Hendra,H 3333 CC,Depot Air Segar,10000,313927,0,Pemasukan,313927,Pembayaran lunas
+852,2024-03-11,Pak Eko,H 1111 AA,Depot Air Segar,6000,364204,0,Pemasukan,364204,Pembayaran lunas
+853,2024-03-11,Pak Rudi,H 3333 CC,Depot Air Segar,8000,362579,0,Pemasukan,362579,Pembayaran lunas
+854,2024-03-12,Pak Budi,H 3333 CC,Warung Lesehan Berkah,10000,291564,0,Pemasukan,291564,Pembayaran lunas
+855,2024-03-12,Pak Budi,H 1111 AA,Cuci Truk,-,0,71965,Pengeluaran,-71965,Biaya cuci truk
+856,2024-03-12,Pak Hendra,H 2222 BB,Depot Tirta Jaya,6000,396004,0,Pemasukan,396004,Pembayaran lunas
+857,2024-03-13,Pak Budi,H 2222 BB,Toko Maju Jaya,10000,387137,0,Pemasukan,387137,Pembayaran lunas
+858,2024-03-13,Pak Slamet,H 2222 BB,Isi Solar,-,0,201653,Pengeluaran,-201653,Biaya isi solar
+859,2024-03-13,Pak Dedi,H 5678 XY,Depot Tirta Jaya,6000,344407,0,Pemasukan,344407,Pembayaran lunas
+860,2024-03-13,Pak Dedi,H 1111 AA,Warung Makan Sari Rasa,10000,294976,0,Pemasukan,294976,Pembayaran lunas
+861,2024-03-14,Pak Eko,H 1111 AA,Ganti Oli,-,0,218873,Pengeluaran,-218873,Biaya ganti oli
+862,2024-03-14,Pak Hendra,H 5678 XY,Warung Lesehan Berkah,8000,399674,0,Pemasukan,399674,Pembayaran lunas
+863,2024-03-14,Pak Slamet,H 4444 DD,Perbaikan Ban,-,0,183435,Pengeluaran,-183435,Biaya perbaikan ban
+864,2024-03-14,Pak Slamet,H 1234 CD,Servis Mesin,-,0,134553,Pengeluaran,-134553,Biaya servis mesin
+865,2024-03-15,Pak Slamet,H 1111 AA,Depot Air Sehat,8000,291276,0,Pemasukan,291276,Pembayaran lunas
+866,2024-03-15,Pak Hendra,H 4444 DD,Toko Sumber Rejeki,6000,333958,0,Pemasukan,333958,Pembayaran lunas
+867,2024-03-16,Pak Eko,H 1234 CD,Perbaikan Ban,-,0,249785,Pengeluaran,-249785,Biaya perbaikan ban
+868,2024-03-16,Pak Joko,H 1111 AA,Toko Sumber Rejeki,10000,329522,0,Pemasukan,329522,Pembayaran lunas
+869,2024-03-17,Pak Andi,H 3333 CC,Depot Tirta Jaya,8000,286857,0,Pemasukan,286857,Pembayaran lunas
+870,2024-03-17,Pak Eko,H 1111 AA,Cuci Truk,-,0,60837,Pengeluaran,-60837,Biaya cuci truk
+871,2024-03-17,Pak Eko,H 1234 CD,Servis Mesin,-,0,70461,Pengeluaran,-70461,Biaya servis mesin
+872,,Pak Hendra,H 4444 DD,Perbaikan Ban,-,0,131409,Pengeluaran,-131409,Biaya perbaikan ban
+873,2024-03-18,Pak Eko,H 4444 DD,Toko Maju Jaya,10000,339289,0,Pemasukan,339289,Pembayaran lunas
+874,2024-03-18,Pak Andi,H 3333 CC,Warung Makan Sari Rasa,8000,365455,0,Pemasukan,365455,Pembayaran lunas
+875,2024-03-18,Pak Eko,H 5678 XY,Cuci Truk,-,0,62207,Pengeluaran,-62207,Biaya cuci truk
+876,2024-03-19,Pak Andi,H 5678 XY,Ganti Oli,-,0,144963,Pengeluaran,-144963,Biaya ganti oli
+877,2024-03-19,Pak Budi,H 1234 CD,Depot Air Segar,6000,342119,0,Pemasukan,342119,Pembayaran lunas
+878,2024-03-19,Pak Eko,H 4444 DD,Warung Makan Sari Rasa,10000,311974,0,Pemasukan,311974,Pembayaran lunas
+879,2024-03-20,Pak Andi,H 3333 CC,Servis Mesin,-,0,165255,Pengeluaran,-165255,Biaya servis mesin
+880,2024-03-20,Pak Eko,H 1234 CD,Warung Lesehan Berkah,8000,303119,0,Pemasukan,303119,Pembayaran lunas
+881,2024-03-20,Pak Hendra,H 1234 CD,Warung Bu Darmi,10000,317855,0,Pemasukan,317855,Pembayaran lunas
+882,2024-03-21,Pak Budi,H 2222 BB,Isi Solar,-,0,65830,Pengeluaran,-65830,Biaya isi solar
+883,2024-03-21,Pak Rudi,H 1234 CD,Warung Lesehan Berkah,6000,300074,0,Pemasukan,300074,Pembayaran lunas
+884,2024-03-22,Pak Dedi,H 5678 XY,Ganti Oli,-,0,83904,Pengeluaran,-83904,Biaya ganti oli
+885,2024-03-22,Pak Slamet,H 1111 AA,Depot Air Segar,6000,326080,0,Pemasukan,326080,Pembayaran lunas
+886,2024-03-22,Pak Slamet,H 1234 CD,Depot Air Segar,6000,381462,0,Pemasukan,381462,Pembayaran lunas
+887,2024-03-23,Pak Hendra,H 1234 CD,Isi Solar,-,0,174818,Pengeluaran,-174818,Biaya isi solar
+888,2024-03-23,Pak Hendra,H 4444 DD,Warung Bu Darmi,8000,348240,0,Pemasukan,348240,Pembayaran lunas
+889,2024-03-23,Pak Budi,H 2222 BB,Depot Air Sehat,10000,382962,0,Pemasukan,382962,Pembayaran lunas
+890,2024-03-23,Pak Andi,H 1234 CD,Depot Air Segar,10000,310837,0,Pemasukan,310837,Pembayaran lunas
+891,2024-03-24,Pak Dedi,H 1111 AA,Cuci Truk,-,0,176178,Pengeluaran,-176178,Biaya cuci truk
+892,2024-03-24,Pak Andi,H 5678 XY,Warung Lesehan Berkah,6000,351259,0,Pemasukan,351259,Pembayaran lunas
+893,2024-03-25,Pak Dedi,H 1234 CD,Servis Mesin,-,0,77320,Pengeluaran,-77320,Biaya servis mesin
+894,2024-03-25,Pak Eko,H 1111 AA,Depot Air Segar,6000,384662,0,Pemasukan,384662,Pembayaran lunas
+895,2024-03-25,Pak Slamet,H 3333 CC,Warung Makan Sari Rasa,10000,332217,0,Pemasukan,332217,Pembayaran lunas
+896,2024-03-26,Pak Joko,H 1234 CD,Toko Sumber Rejeki,8000,382512,0,Pemasukan,382512,Pembayaran lunas
+897,2024-03-26,Pak Rudi,H 1234 CD,Cuci Truk,-,0,144301,Pengeluaran,-144301,Biaya cuci truk
+898,2024-03-26,Pak Budi,H 4444 DD,Toko Sumber Rejeki,10000,287888,0,Pemasukan,287888,Pembayaran lunas
+899,2024-03-26,Pak Budi,H 5678 XY,Warung Bu Darmi,10000,355007,0,Pemasukan,355007,Pembayaran lunas
+900,2024-03-27,Pak Andi,H 1234 CD,Cuci Truk,-,0,228664,Pengeluaran,-228664,Biaya cuci truk
+901,2024-03-27,Pak Eko,H 3333 CC,Ganti Oli,-,0,160752,Pengeluaran,-160752,Biaya ganti oli
+902,2024-03-27,Pak Slamet,H 4444 DD,Isi Solar,-,0,76991,Pengeluaran,-76991,Biaya isi solar
+903,2024-03-27,Pak Joko,H 1111 AA,Warung Makan Sari Rasa,6000,380656,0,Pemasukan,380656,Pembayaran lunas
+904,2024-03-28,Pak Slamet,H 1234 CD,Depot Air Segar,8000,398228,0,Pemasukan,398228,Pembayaran lunas
+905,2024-03-28,Pak Dedi,H 3333 CC,Warung Lesehan Berkah,6000,369654,0,Pemasukan,369654,Pembayaran lunas
+906,2024-03-28,Pak Slamet,H 1111 AA,Toko Maju Jaya,10000,356997,0,Pemasukan,356997,Pembayaran lunas
+907,2024-03-28,Pak Rudi,H 4444 DD,Depot Air Segar,8000,347316,0,Pemasukan,347316,Pembayaran lunas
+908,2024-03-29,Pak Slamet,H 5678 XY,Depot Air Segar,10000,326075,0,Pemasukan,326075,Pembayaran lunas
+909,2024-03-29,Pak Joko,H 5678 XY,Perbaikan Ban,-,0,67685,Pengeluaran,-67685,Biaya perbaikan ban
+910,2024-03-30,Pak Eko,H 5678 XY,Warung Lesehan Berkah,10000,321884,0,Pemasukan,321884,Pembayaran lunas
+911,2024-03-30,Pak Rudi,H 1234 CD,Servis Mesin,-,0,235837,Pengeluaran,-235837,Biaya servis mesin
+912,2024-03-30,Pak Andi,H 4444 DD,Toko Maju Jaya,8000,300214,0,Pemasukan,300214,Pembayaran lunas
+913,2024-03-31,Pak Hendra,H 4444 DD,Toko Maju Jaya,8000,295766,0,Pemasukan,295766,Pembayaran lunas
+914,2024-03-31,Pak Budi,H 2222 BB,Warung Lesehan Berkah,6000,370580,0,Pemasukan,370580,Pembayaran lunas
+915,2024-03-31,Pak Joko,H 1111 AA,Depot Air Segar,6000,375317,0,Pemasukan,375317,Pembayaran lunas
+916,2024-04-01,Pak Budi,H 4444 DD,Ganti Oli,-,0,71301,Pengeluaran,-71301,Biaya ganti oli
+917,2024-04-01,Pak Rudi,H 4444 DD,Warung Bu Darmi,8000,330945,0,Pemasukan,330945,Pembayaran lunas
+918,2024-04-01,Pak Dedi,H 1111 AA,Warung Lesehan Berkah,6000,289744,0,Pemasukan,289744,Pembayaran lunas
+919,2024-04-02,Pak Budi,H 4444 DD,Depot Tirta Jaya,10000,287797,0,Pemasukan,287797,Pembayaran lunas
+920,2024-04-02,Pak Slamet,H 5678 XY,Cuci Truk,-,0,198602,Pengeluaran,-198602,Biaya cuci truk
+921,2024-04-03,Pak Rudi,H 2222 BB,Depot Air Sehat,10000,341018,0,Pemasukan,341018,Pembayaran lunas
+922,2024-04-03,Pak Slamet,H 4444 DD,Warung Bu Darmi,8000,342538,0,Pemasukan,342538,Pembayaran lunas
+923,2024-04-03,,H 3333 CC,Warung Bu Darmi,8000,348715,0,Pemasukan,348715,Pembayaran lunas
+924,2024-04-04,Pak Rudi,H 2222 BB,Warung Bu Darmi,8000,324209,0,Pemasukan,324209,Pembayaran lunas
+925,2024-04-04,Pak Joko,H 3333 CC,Warung Makan Sari Rasa,10000,382034,0,Pemasukan,382034,Pembayaran lunas
+926,2024-04-04,Pak Eko,H 1234 CD,Servis Mesin,-,0,79509,Pengeluaran,-79509,Biaya servis mesin
+927,2024-04-05,Pak Slamet,H 5678 XY,Isi Solar,-,0,248971,Pengeluaran,-248971,Biaya isi solar
+928,2024-04-05,Pak Rudi,H 1234 CD,Warung Lesehan Berkah,8000,352264,0,Pemasukan,352264,Pembayaran lunas
+929,2024-04-05,Pak Budi,H 1234 CD,Servis Mesin,-,0,168920,Pengeluaran,-168920,Biaya servis mesin
+930,2024-04-05,Pak Rudi,H 4444 DD,Warung Lesehan Berkah,6000,296678,0,Pemasukan,296678,Pembayaran lunas
+931,2024-04-06,Pak Joko,H 1234 CD,Ganti Oli,-,0,235290,Pengeluaran,-235290,Biaya ganti oli
+932,2024-04-06,Pak Budi,H 1111 AA,Toko Sumber Rejeki,10000,395051,0,Pemasukan,395051,Pembayaran lunas
+933,2024-04-06,Pak Joko,H 1234 CD,Toko Sumber Rejeki,8000,364535,0,Pemasukan,364535,Pembayaran lunas
+934,2024-04-06,Pak Slamet,H 5678 XY,Servis Mesin,-,0,92816,Pengeluaran,-92816,Biaya servis mesin
+935,2024-04-07,Pak Budi,H 4444 DD,Warung Lesehan Berkah,10000,391034,0,Pemasukan,391034,Pembayaran lunas
+936,2024-04-07,Pak Hendra,H 5678 XY,Warung Bu Darmi,10000,319196,0,Pemasukan,319196,Pembayaran lunas
+937,2024-04-08,Pak Budi,H 5678 XY,Warung Bu Darmi,10000,343234,0,Pemasukan,343234,Pembayaran lunas
+938,2024-04-08,Pak Andi,H 3333 CC,Depot Tirta Jaya,6000,345797,0,Pemasukan,345797,Pembayaran lunas
+939,2024-04-08,Pak Andi,H 4444 DD,Cuci Truk,-,0,123179,Pengeluaran,-123179,Biaya cuci truk
+940,2024-04-09,Pak Joko,H 3333 CC,Depot Air Segar,10000,289936,0,Pemasukan,289936,Pembayaran lunas
+941,2024-04-09,Pak Dedi,H 5678 XY,Warung Makan Sari Rasa,10000,286994,0,Pemasukan,286994,Pembayaran lunas
+942,2024-04-09,Pak Rudi,H 4444 DD,Depot Air Segar,8000,285120,0,Pemasukan,285120,Pembayaran lunas
+943,2024-04-10,Pak Slamet,H 4444 DD,Warung Makan Sari Rasa,8000,310906,0,Pemasukan,310906,Pembayaran lunas
+944,2024-04-10,Pak Dedi,H 1234 CD,Perbaikan Ban,-,0,231571,Pengeluaran,-231571,Biaya perbaikan ban
+945,2024-04-10,Pak Joko,H 1234 CD,Cuci Truk,-,0,203440,Pengeluaran,-203440,Biaya cuci truk
+946,2024-04-10,Pak Joko,H 1234 CD,Servis Mesin,-,0,92096,Pengeluaran,-92096,Biaya servis mesin
+947,2024-04-11,Pak Andi,H 5678 XY,Warung Makan Sari Rasa,8000,309967,0,Pemasukan,309967,Pembayaran lunas
+948,2024-04-11,Pak Hendra,H 2222 BB,Depot Tirta Jaya,10000,369268,0,Pemasukan,369268,Pembayaran lunas
+949,2024-04-11,Pak Eko,H 2222 BB,Warung Lesehan Berkah,8000,395558,0,Pemasukan,395558,Pembayaran lunas
+950,2024-04-12,Pak Eko,H 2222 BB,Warung Bu Darmi,10000,333948,0,Pemasukan,333948,Pembayaran lunas
+951,2024-04-12,Pak Hendra,H 4444 DD,Perbaikan Ban,-,0,204507,Pengeluaran,-204507,Biaya perbaikan ban
+952,2024-04-12,Pak Rudi,H 3333 CC,Isi Solar,-,0,158830,Pengeluaran,-158830,Biaya isi solar
+953,2024-04-13,Pak Rudi,H 1111 AA,Isi Solar,-,0,184750,Pengeluaran,-184750,Biaya isi solar
+954,2024-04-13,Pak Joko,H 3333 CC,Isi Solar,-,0,151993,Pengeluaran,-151993,Biaya isi solar
+955,2024-04-13,Pak Rudi,H 5678 XY,Perbaikan Ban,-,0,51675,Pengeluaran,-51675,Biaya perbaikan ban
+956,2024-04-13,Pak Rudi,H 1234 CD,Toko Maju Jaya,10000,310654,0,Pemasukan,310654,Pembayaran lunas
+957,2024-04-14,Pak Eko,H 5678 XY,Toko Maju Jaya,10000,308592,0,Pemasukan,308592,Pembayaran lunas
+958,2024-04-14,Pak Andi,H 1234 CD,Warung Lesehan Berkah,10000,371447,0,Pemasukan,371447,Pembayaran lunas
+959,2024-04-14,Pak Dedi,H 1234 CD,Warung Makan Sari Rasa,10000,300222,0,Pemasukan,300222,Pembayaran lunas
+960,2024-04-15,Pak Dedi,H 1111 AA,Depot Tirta Jaya,6000,312855,0,Pemasukan,312855,Pembayaran lunas
+961,2024-04-15,Pak Hendra,H 1111 AA,Depot Air Sehat,8000,321836,0,Pemasukan,321836,Pembayaran lunas
+962,2024-04-15,Pak Hendra,H 5678 XY,Toko Sumber Rejeki,10000,386444,0,Pemasukan,386444,Pembayaran lunas
+963,2024-04-16,Pak Slamet,H 2222 BB,Servis Mesin,-,0,234437,Pengeluaran,-234437,Biaya servis mesin
+964,2024-04-16,Pak Joko,H 5678 XY,Depot Air Sehat,10000,326126,0,Pemasukan,326126,Pembayaran lunas
+965,2024-04-16,Pak Andi,H 1234 CD,Isi Solar,-,0,230189,Pengeluaran,-230189,Biaya isi solar
+966,2024-04-16,Pak Slamet,H 3333 CC,Toko Maju Jaya,10000,378474,0,Pemasukan,378474,Pembayaran lunas
+967,2024-04-17,Pak Joko,H 1234 CD,Warung Makan Sari Rasa,8000,331609,0,Pemasukan,331609,Pembayaran lunas
+968,2024-04-17,Pak Eko,H 5678 XY,Isi Solar,-,0,204573,Pengeluaran,-204573,Biaya isi solar
+969,2024-04-18,Pak Budi,H 1111 AA,Warung Lesehan Berkah,10000,325701,0,Pemasukan,325701,Pembayaran lunas
+970,2024-04-18,Pak Budi,H 2222 BB,Cuci Truk,-,0,235329,Pengeluaran,-235329,Biaya cuci truk
+971,2024-04-18,Pak Andi,H 3333 CC,Toko Sumber Rejeki,6000,379866,0,Pemasukan,379866,Pembayaran lunas
+972,2024-04-18,Pak Eko,H 1234 CD,Cuci Truk,-,0,133092,Pengeluaran,-133092,Biaya cuci truk
+973,2024-04-19,Pak Budi,H 1111 AA,Warung Lesehan Berkah,6000,395724,0,Pemasukan,395724,Pembayaran lunas
+974,2024-04-19,Pak Joko,H 5678 XY,Toko Sumber Rejeki,6000,327059,0,Pemasukan,327059,Pembayaran lunas
+975,2024-04-19,Pak Slamet,H 2222 BB,Servis Mesin,-,0,98153,Pengeluaran,-98153,Biaya servis mesin
+976,2024-04-19,Pak Slamet,H 5678 XY,Isi Solar,-,0,103963,Pengeluaran,-103963,Biaya isi solar
+977,2024-04-20,Pak Slamet,H 1234 CD,Ganti Oli,-,0,248523,Pengeluaran,-248523,Biaya ganti oli
+978,2024-04-20,Pak Eko,H 2222 BB,Depot Air Segar,6000,292589,0,Pemasukan,292589,Pembayaran lunas
+979,2024-04-20,Pak Hendra,H 3333 CC,Isi Solar,-,0,186748,Pengeluaran,-186748,Biaya isi solar
+980,2024-04-21,Pak Eko,H 4444 DD,Depot Air Sehat,6000,295366,0,Pemasukan,295366,Pembayaran lunas
+981,2024-04-21,Pak Joko,H 4444 DD,Perbaikan Ban,-,0,73730,Pengeluaran,-73730,Biaya perbaikan ban
+982,2024-04-22,Pak Rudi,H 4444 DD,Warung Makan Sari Rasa,10000,287530,0,Pemasukan,287530,Pembayaran lunas
+983,2024-04-22,Pak Hendra,H 3333 CC,Warung Bu Darmi,8000,344961,0,Pemasukan,344961,Pembayaran lunas
+984,2024-04-23,Pak Andi,H 5678 XY,Depot Air Segar,6000,310571,0,Pemasukan,310571,Pembayaran lunas
+985,2024-04-23,Pak Slamet,H 1111 AA,Depot Air Sehat,6000,395411,0,Pemasukan,395411,Pembayaran lunas
+986,2024-04-24,Pak Joko,H 1234 CD,Ganti Oli,-,0,124419,Pengeluaran,-124419,Biaya ganti oli
+987,2024-04-24,Pak Andi,H 1234 CD,Servis Mesin,-,0,114231,Pengeluaran,-114231,Biaya servis mesin
+988,2024-04-25,Pak Slamet,H 1234 CD,Toko Sumber Rejeki,10000,322769,0,Pemasukan,322769,Pembayaran lunas
+989,2024-04-25,Pak Joko,H 2222 BB,Warung Bu Darmi,10000,371520,0,Pemasukan,371520,Pembayaran lunas
+990,2024-04-26,Pak Rudi,H 1111 AA,Isi Solar,-,0,224059,Pengeluaran,-224059,Biaya isi solar
+991,2024-04-26,Pak Dedi,H 5678 XY,Depot Tirta Jaya,10000,374944,0,Pemasukan,374944,Pembayaran lunas
+992,2024-04-26,Pak Joko,H 1111 AA,Perbaikan Ban,-,0,218686,Pengeluaran,-218686,Biaya perbaikan ban
+993,2024-04-26,Pak Joko,H 4444 DD,Warung Makan Sari Rasa,8000,384928,0,Pemasukan,384928,Pembayaran lunas
+994,2024-04-27,Pak Rudi,H 1234 CD,Servis Mesin,-,0,239078,Pengeluaran,-239078,Biaya servis mesin
+995,2024-04-27,Pak Dedi,H 3333 CC,Depot Air Segar,8000,391312,0,Pemasukan,391312,Pembayaran lunas
+996,2024-04-27,Pak Dedi,H 1111 AA,Depot Tirta Jaya,10000,387913,0,Pemasukan,387913,Pembayaran lunas
+997,2024-04-28,Pak Hendra,H 4444 DD,Cuci Truk,-,0,115919,Pengeluaran,-115919,Biaya cuci truk
+998,2024-04-28,Pak Dedi,H 1234 CD,Ganti Oli,-,0,215986,Pengeluaran,-215986,Biaya ganti oli
+999,2024-04-28,Pak Eko,H 3333 CC,Depot Air Sehat,8000,315506,0,Pemasukan,315506,Pembayaran lunas
+1000,2024-04-28,Pak Slamet,H 2222 BB,Depot Air Segar,6000,363597,0,Pemasukan,363597,Pembayaran lunas
+1001,2024-04-29,Pak Slamet,H 4444 DD,Toko Sumber Rejeki,10000,289713,0,Pemasukan,289713,Pembayaran lunas
+1002,2024-04-29,Pak Joko,H 4444 DD,Warung Makan Sari Rasa,8000,348832,0,Pemasukan,348832,Pembayaran lunas
+1003,2024-04-30,Pak Andi,H 1111 AA,Depot Air Sehat,8000,314515,0,Pemasukan,314515,Pembayaran lunas
+1004,2024-04-30,Pak Rudi,H 5678 XY,Toko Sumber Rejeki,6000,362017,0,Pemasukan,362017,Pembayaran lunas
+1005,2024-04-30,Pak Rudi,H 4444 DD,Cuci Truk,-,0,217050,Pengeluaran,-217050,Biaya cuci truk
+1006,2024-04-30,Pak Dedi,H 1234 CD,Depot Tirta Jaya,8000,369000,0,Pemasukan,369000,Pembayaran lunas
+1007,2024-05-01,Pak Dedi,H 1234 CD,Toko Maju Jaya,8000,350546,0,Pemasukan,350546,Pembayaran lunas
+1008,2024-05-01,Pak Andi,H 1111 AA,Isi Solar,-,0,243563,Pengeluaran,-243563,Biaya isi solar
+1009,2024-05-01,Pak Slamet,H 3333 CC,Warung Bu Darmi,10000,393311,0,Pemasukan,393311,Pembayaran lunas
+1010,2024-05-01,Pak Andi,H 5678 XY,Depot Air Segar,10000,395150,0,Pemasukan,395150,Pembayaran lunas
+1011,2024-05-02,Pak Joko,H 3333 CC,Toko Sumber Rejeki,6000,384425,0,Pemasukan,384425,Pembayaran lunas
+1012,2024-05-02,Pak Andi,H 2222 BB,Depot Tirta Jaya,8000,351502,0,Pemasukan,351502,Pembayaran lunas
+1013,2024-05-02,,H 3333 CC,Perbaikan Ban,-,0,63468,Pengeluaran,-63468,Biaya perbaikan ban
+1014,2024-05-02,Pak Slamet,H 1111 AA,Ganti Oli,-,0,236107,Pengeluaran,-236107,Biaya ganti oli
+1015,2024-05-03,Pak Budi,H 4444 DD,Warung Lesehan Berkah,6000,333132,0,Pemasukan,333132,Pembayaran lunas
+1016,2024-05-03,Pak Eko,H 5678 XY,Warung Lesehan Berkah,6000,392825,0,Pemasukan,392825,Pembayaran lunas
+1017,2024-05-04,Pak Joko,H 1234 CD,Depot Air Sehat,10000,312811,0,Pemasukan,312811,Pembayaran lunas
+1018,2024-05-04,Pak Joko,H 5678 XY,Depot Tirta Jaya,10000,361625,0,Pemasukan,361625,Pembayaran lunas
+1019,2024-05-04,Pak Rudi,H 2222 BB,Isi Solar,-,0,184922,Pengeluaran,-184922,Biaya isi solar
+1020,2024-05-05,Pak Eko,H 1111 AA,Toko Maju Jaya,10000,368944,0,Pemasukan,368944,Pembayaran lunas
+1021,2024-05-05,Pak Dedi,,Depot Air Segar,10000,342635,0,Pemasukan,342635,Pembayaran lunas
+1022,2024-05-05,Pak Slamet,H 1234 CD,Ganti Oli,-,0,139534,Pengeluaran,-139534,Biaya ganti oli
+1023,2024-05-05,Pak Andi,H 1234 CD,Isi Solar,-,0,192771,Pengeluaran,-192771,Biaya isi solar
+1024,2024-05-06,Pak Joko,H 5678 XY,Warung Lesehan Berkah,8000,307351,0,Pemasukan,307351,Pembayaran lunas
+1025,2024-05-06,Pak Andi,H 1111 AA,Isi Solar,-,0,188390,Pengeluaran,-188390,Biaya isi solar
+1026,2024-05-06,Pak Andi,H 3333 CC,Toko Maju Jaya,10000,311976,0,Pemasukan,311976,Pembayaran lunas
+1027,2024-05-06,Pak Joko,H 2222 BB,Warung Makan Sari Rasa,8000,322387,0,Pemasukan,322387,Pembayaran lunas
+1028,2024-05-07,Pak Eko,H 4444 DD,Depot Tirta Jaya,6000,323591,0,Pemasukan,323591,Pembayaran lunas
+1029,2024-05-07,Pak Dedi,H 1111 AA,Depot Air Sehat,6000,287467,0,Pemasukan,287467,Pembayaran lunas
+1030,2024-05-07,Pak Rudi,H 5678 XY,Depot Tirta Jaya,8000,370999,0,Pemasukan,370999,Pembayaran lunas
+1031,2024-05-07,Pak Rudi,H 5678 XY,Depot Air Segar,8000,382319,0,Pemasukan,382319,Pembayaran lunas
+1032,2024-05-08,Pak Joko,H 1111 AA,Depot Tirta Jaya,6000,307686,0,Pemasukan,307686,Pembayaran lunas
+1033,2024-05-08,Pak Eko,H 2222 BB,Toko Maju Jaya,8000,338411,0,Pemasukan,338411,Pembayaran lunas
+1034,2024-05-09,Pak Budi,H 4444 DD,Warung Bu Darmi,8000,369144,0,Pemasukan,369144,Pembayaran lunas
+1035,2024-05-09,Pak Eko,H 1234 CD,Warung Bu Darmi,8000,393305,0,Pemasukan,393305,Pembayaran lunas
+1036,2024-05-09,Pak Eko,H 1234 CD,Warung Lesehan Berkah,8000,310635,0,Pemasukan,310635,Pembayaran lunas
+1037,2024-05-09,Pak Eko,H 2222 BB,Toko Sumber Rejeki,6000,394683,0,Pemasukan,394683,Pembayaran lunas
+1038,2024-05-10,Pak Hendra,H 4444 DD,Ganti Oli,-,0,159990,Pengeluaran,-159990,Biaya ganti oli
+1039,2024-05-10,Pak Slamet,H 1111 AA,Isi Solar,-,0,75411,Pengeluaran,-75411,Biaya isi solar
+1040,2024-05-10,Pak Joko,H 5678 XY,Perbaikan Ban,-,0,151616,Pengeluaran,-151616,Biaya perbaikan ban
+1041,2024-05-10,Pak Dedi,H 3333 CC,Perbaikan Ban,-,0,136190,Pengeluaran,-136190,Biaya perbaikan ban
+1042,2024-05-11,Pak Rudi,H 5678 XY,Toko Maju Jaya,10000,394475,0,Pemasukan,394475,Pembayaran lunas
+1043,2024-05-11,Pak Budi,H 1111 AA,Warung Lesehan Berkah,8000,392112,0,Pemasukan,392112,Pembayaran lunas
+1044,2024-05-11,Pak Rudi,H 1111 AA,Warung Lesehan Berkah,8000,359761,0,Pemasukan,359761,Pembayaran lunas
+1045,2024-05-11,Pak Dedi,H 1234 CD,Depot Air Segar,10000,350194,0,Pemasukan,350194,Pembayaran lunas
+1046,2024-05-12,Pak Hendra,H 2222 BB,Depot Air Sehat,6000,370539,0,Pemasukan,370539,Pembayaran lunas
+1047,2024-05-12,Pak Andi,H #### AA,Toko Maju Jaya,6000,385684,0,Pemasukan,385684,Pembayaran lunas
+1048,2024-05-12,Pak Andi,H 4444 DD,Depot Tirta Jaya,8000,290504,0,Pemasukan,290504,Pembayaran lunas
+1049,2024-05-12,Pak Joko,H 1234 CD,Cuci Truk,-,0,175219,Pengeluaran,-175219,Biaya cuci truk
+1050,2024-05-13,Pak Eko,H 5678 XY,Toko Maju Jaya,6000,368013,0,Pemasukan,368013,Pembayaran lunas
+1051,2024-05-13,Pak Hendra,H 1111 AA,Warung Lesehan Berkah,10000,374166,0,Pemasukan,374166,Pembayaran lunas
+1052,2024-05-14,Pak Andi,H 3333 CC,Warung Bu Darmi,8000,301198,0,Pemasukan,301198,Pembayaran lunas
+1053,2024-05-14,Pak Budi,H 4444 DD,Depot Tirta Jaya,8000,339945,0,Pemasukan,339945,Pembayaran lunas
+1054,2024-05-14,Pak Andi,H 3333 CC,Perbaikan Ban,-,0,70807,Pengeluaran,-70807,Biaya perbaikan ban
+1055,2024-05-14,Pak Andi,H 3333 CC,Depot Air Sehat,6000,338679,0,Pemasukan,338679,Pembayaran lunas
+1056,2024-05-15,Pak Budi,H 5678 XY,Depot Air Sehat,8000,395301,0,Pemasukan,395301,Pembayaran lunas
+1057,2024-05-15,Pak Joko,H 2222 BB,Depot Tirta Jaya,10000,320826,0,Pemasukan,320826,Pembayaran lunas
+1058,2024-05-15,Pak Rudi,H 4444 DD,Depot Tirta Jaya,6000,369310,0,Pemasukan,369310,Pembayaran lunas
+1059,2024-05-16,Pak Dedi,H 4444 DD,Depot Air Sehat,6000,374186,0,Pemasukan,374186,Pembayaran lunas
+1060,2024-05-16,Pak Rudi,H 3333 CC,Servis Mesin,-,0,132259,Pengeluaran,-132259,Biaya servis mesin
+1061,2024-05-16,Pak Slamet,H 5678 XY,Toko Maju Jaya,8000,363543,0,Pemasukan,363543,Pembayaran lunas
+1062,2024-05-17,Pak Budi,H 1234 CD,Depot Tirta Jaya,6000,369505,0,Pemasukan,369505,Pembayaran lunas
+1063,2024-05-17,Pak Budi,H 5678 XY,Isi Solar,-,0,208306,Pengeluaran,-208306,Biaya isi solar
+1064,2024-05-17,Pak Joko,H 1234 CD,Perbaikan Ban,-,0,168362,Pengeluaran,-168362,Biaya perbaikan ban
+1065,2024-05-17,Pak Slamet,H 5678 XY,Depot Tirta Jaya,6000,390626,0,Pemasukan,390626,Pembayaran lunas
+1066,2024-05-18,Pak Dedi,H 3333 CC,Depot Air Sehat,6000,330625,0,Pemasukan,330625,Pembayaran lunas
+1067,2024-05-18,Pak Hendra,H 5678 XY,Cuci Truk,-,0,132311,Pengeluaran,-132311,Biaya cuci truk
+1068,2024-05-18,Pak Joko,H 1234 CD,Depot Tirta Jaya,8000,311638,0,Pemasukan,311638,Pembayaran lunas
+1069,2024-05-18,Pak Rudi,H 2222 BB,Toko Sumber Rejeki,10000,286363,0,Pemasukan,286363,Pembayaran lunas
+1070,2024-05-19,Pak Hendra,H 1234 CD,Warung Bu Darmi,8000,315305,0,Pemasukan,315305,Pembayaran lunas
+1071,2024-05-19,Pak Rudi,H 1111 AA,Toko Maju Jaya,8000,392697,0,Pemasukan,392697,Pembayaran lunas
+1072,2024-05-19,Pak Rudi,H 1234 CD,Isi Solar,-,0,166253,Pengeluaran,-166253,Biaya isi solar
+1073,2024-05-20,Pak Hendra,H 3333 CC,Warung Lesehan Berkah,10000,318309,0,Pemasukan,318309,Pembayaran lunas
+1074,2024-05-20,Pak Rudi,H #### AA,Depot Tirta Jaya,10000,368280,0,Pemasukan,368280,Pembayaran lunas
+1075,2024-05-20,Pak Joko,H 4444 DD,Toko Maju Jaya,6000,305262,0,Pemasukan,305262,Pembayaran lunas
+1076,2024-05-21,Pak Hendra,H 1111 AA,Perbaikan Ban,-,0,184466,Pengeluaran,-184466,Biaya perbaikan ban
+1077,2024-05-21,Pak Rudi,H 5678 XY,Depot Tirta Jaya,10000,389354,0,Pemasukan,389354,Pembayaran lunas
+1078,2024-05-21,Pak Slamet,H 1111 AA,Isi Solar,-,0,212727,Pengeluaran,-212727,Biaya isi solar
+1079,2024-05-21,Pak Eko,H 2222 BB,Toko Maju Jaya,6000,380166,0,Pemasukan,380166,Pembayaran lunas
+1080,2024-05-22,Pak Eko,H 4444 DD,Isi Solar,-,0,172836,Pengeluaran,-172836,Biaya isi solar
+1081,2024-05-22,Pak Slamet,H 4444 DD,Cuci Truk,-,0,151998,Pengeluaran,-151998,Biaya cuci truk
+1082,2024-05-22,Pak Eko,H 5678 XY,Toko Maju Jaya,6000,291379,0,Pemasukan,291379,Pembayaran lunas
+1083,2024-05-23,Pak Andi,H 3333 CC,Depot Tirta Jaya,10000,318147,0,Pemasukan,318147,Pembayaran lunas
+1084,2024-05-23,Pak Hendra,H 2222 BB,Depot Air Sehat,10000,298611,0,Pemasukan,298611,Pembayaran lunas
+1085,2024-05-23,Pak Andi,H 5678 XY,Depot Tirta Jaya,8000,340946,0,Pemasukan,340946,Pembayaran lunas
+1086,2024-05-23,Pak Dedi,H 2222 BB,Ganti Oli,-,0,153912,Pengeluaran,-153912,Biaya ganti oli
+1087,2024-05-24,Pak Slamet,H 4444 DD,Toko Sumber Rejeki,8000,300469,0,Pemasukan,300469,Pembayaran lunas
+1088,2024-05-24,Pak Dedi,H 4444 DD,Ganti Oli,-,0,84524,Pengeluaran,-84524,Biaya ganti oli
+1089,2024-05-24,Pak Dedi,H #### AA,,-,0,137484,Pengeluaran,-137484,Biaya servis mesin
+1090,2024-05-25,Pak Dedi,H 2222 BB,Cuci Truk,-,0,102529,Pengeluaran,-102529,Biaya cuci truk
+1091,2024-05-25,Pak Rudi,H 4444 DD,Ganti Oli,-,0,229371,Pengeluaran,-229371,Biaya ganti oli
+1092,2024-05-25,Pak Slamet,H 3333 CC,Depot Air Sehat,10000,312788,0,Pemasukan,312788,Pembayaran lunas
+1093,2024-05-26,Pak Slamet,H 3333 CC,Depot Tirta Jaya,10000,296839,0,Pemasukan,296839,Pembayaran lunas
+1094,2024-05-26,Pak Budi,H 3333 CC,Cuci Truk,-,0,195853,Pengeluaran,-195853,Biaya cuci truk
+1095,2024-05-27,Pak Rudi,H 5678 XY,Warung Makan Sari Rasa,6000,288408,0,Pemasukan,288408,Pembayaran lunas
+1096,2024-05-27,Pak Budi,H 1111 AA,Warung Makan Sari Rasa,6000,359779,0,Pemasukan,359779,Pembayaran lunas
+1097,2024-05-28,Pak Rudi,,Depot Air Segar,6000,360337,0,Pemasukan,360337,Pembayaran lunas
+1098,2024-05-28,Pak Dedi,H 4444 DD,Perbaikan Ban,-,0,164505,Pengeluaran,-164505,Biaya perbaikan ban
+1099,2024-05-29,Pak Joko,H 4444 DD,Depot Tirta Jaya,10000,291423,0,Pemasukan,291423,Pembayaran lunas
+1100,2024-05-29,Pak Budi,H 1234 CD,Toko Sumber Rejeki,10000,297261,0,Pemasukan,297261,Pembayaran lunas
+1101,2024-05-30,Pak Joko,H 1111 AA,Warung Makan Sari Rasa,8000,360111,0,Pemasukan,360111,Pembayaran lunas
+1102,2024-05-30,Pak Slamet,H 4444 DD,Warung Bu Darmi,8000,323553,0,Pemasukan,323553,Pembayaran lunas
+1103,2024-05-30,,H 1234 CD,Warung Lesehan Berkah,6000,335930,0,Pemasukan,335930,Pembayaran lunas
+1104,2024-05-31,Pak Dedi,H 4444 DD,Depot Air Segar,8000,356346,0,Pemasukan,356346,Pembayaran lunas
+1105,2024-05-31,Pak Dedi,H 4444 DD,Warung Lesehan Berkah,10000,323081,0,Pemasukan,323081,Pembayaran lunas
